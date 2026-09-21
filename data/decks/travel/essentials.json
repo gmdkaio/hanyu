@@ -1,0 +1,15 @@
+{
+  "id": "travel-essentials",
+  "name": "Travel: Essentials",
+  "description": "First words for getting around mainland China. Simplified characters.",
+  "cards": [
+    {"id": "ess-0001", "hanzi": "你好", "pinyin": "ni3 hao3", "meaning": ["hello"], "category": "essentials", "tags": ["hsk1", "travel"]},
+    {"id": "ess-0002", "hanzi": "谢谢", "pinyin": "xie4 xie5", "meaning": ["thank you", "thanks"], "category": "essentials", "tags": ["hsk1", "travel"]},
+    {"id": "ess-0003", "hanzi": "对不起", "pinyin": "dui4 bu5 qi3", "meaning": ["sorry"], "category": "essentials", "tags": ["hsk1", "travel"]},
+    {"id": "ess-0004", "hanzi": "请问", "pinyin": "qing3 wen4", "meaning": ["excuse me", "may I ask"], "category": "essentials", "tags": ["hsk2", "travel"]},
+    {"id": "ess-0005", "hanzi": "多少钱", "pinyin": "duo1 shao5 qian2", "meaning": ["how much", "how much is it"], "category": "money", "tags": ["hsk1", "travel"]},
+    {"id": "ess-0006", "hanzi": "厕所", "pinyin": "ce4 suo3", "meaning": ["toilet", "restroom"], "category": "essentials", "tags": ["hsk4", "travel"]},
+    {"id": "ess-0007", "hanzi": "我不会说中文", "pinyin": "wo3 bu4 hui4 shuo1 zhong1 wen2", "meaning": ["I can't speak Chinese"], "category": "essentials", "tags": ["travel"]},
+    {"id": "ess-0008", "hanzi": "再见", "pinyin": "zai4 jian4", "meaning": ["goodbye"], "category": "essentials", "tags": ["hsk1", "travel"]}
+  ]
+}
