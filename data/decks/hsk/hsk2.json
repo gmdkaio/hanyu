@@ -1,0 +1,9899 @@
+{
+  "id": "hsk-2",
+  "name": "HSK 2",
+  "description": "HSK level 2 vocabulary (HSK 3.0 standard). Simplified characters.",
+  "cards": [
+    {
+      "id": "hsk2-0001",
+      "hanzi": "让",
+      "pinyin": "rang4",
+      "meaning": [
+        "to yield",
+        "to permit",
+        "to let sb do sth",
+        "to have sb do sth",
+        "to make sb (feel sad etc)",
+        "by (indicates the agent in a passive clause, like 被)"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0002",
+      "hanzi": "但",
+      "pinyin": "dan4",
+      "meaning": [
+        "but; yet; however; still",
+        "merely; only; just"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0003",
+      "hanzi": "自己",
+      "pinyin": "zi4 ji3",
+      "meaning": [
+        "oneself",
+        "one's own"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0004",
+      "hanzi": "可以",
+      "pinyin": "ke3 yi3",
+      "meaning": [
+        "can",
+        "may",
+        "possible",
+        "able to",
+        "not bad",
+        "pretty good"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0005",
+      "hanzi": "已经",
+      "pinyin": "yi3 jing1",
+      "meaning": [
+        "already"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0006",
+      "hanzi": "这样",
+      "pinyin": "zhe4 yang4",
+      "meaning": [
+        "this kind of",
+        "so",
+        "this way",
+        "like this",
+        "such"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0007",
+      "hanzi": "如果",
+      "pinyin": "ru2 guo3",
+      "meaning": [
+        "if",
+        "in case",
+        "in the event that"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0008",
+      "hanzi": "因为",
+      "pinyin": "yin1 wei4",
+      "meaning": [
+        "because",
+        "owing to",
+        "on account of"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0009",
+      "hanzi": "又",
+      "pinyin": "you4",
+      "meaning": [
+        "(once) again",
+        "also",
+        "both... and...",
+        "and yet",
+        "(used for emphasis) anyway"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0010",
+      "hanzi": "问题",
+      "pinyin": "wen4 ti2",
+      "meaning": [
+        "question",
+        "problem",
+        "issue",
+        "topic"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0011",
+      "hanzi": "它",
+      "pinyin": "ta1",
+      "meaning": [
+        "it"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0012",
+      "hanzi": "但是",
+      "pinyin": "dan4 shi4",
+      "meaning": [
+        "but; however"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0013",
+      "hanzi": "该",
+      "pinyin": "gai1",
+      "meaning": [
+        "should",
+        "ought to",
+        "probably",
+        "must be",
+        "to deserve",
+        "to owe",
+        "to be sb's turn to do sth",
+        "that",
+        "the above-mentioned"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0014",
+      "hanzi": "可能",
+      "pinyin": "ke3 neng2",
+      "meaning": [
+        "might (happen)",
+        "possible",
+        "probable",
+        "possibility",
+        "probability",
+        "maybe",
+        "perhaps"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0015",
+      "hanzi": "才",
+      "pinyin": "cai2",
+      "meaning": [
+        "ability; talent",
+        "sb of a certain type",
+        "a capable individual",
+        "then and only then",
+        "just now",
+        "(before an expression of quantity) only",
+        "(variant of 才) just now",
+        "(variant of 才) (before an expression of quantity) only"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0016",
+      "hanzi": "像",
+      "pinyin": "xiang4",
+      "meaning": [
+        "to resemble",
+        "to be like",
+        "to look as if",
+        "such as",
+        "appearance",
+        "image",
+        "portrait",
+        "image under a mapping (math.)"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0017",
+      "hanzi": "所以",
+      "pinyin": "suo3 yi3",
+      "meaning": [
+        "therefore",
+        "as a result",
+        "so",
+        "the reason why"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0018",
+      "hanzi": "那么",
+      "pinyin": "na4 me5",
+      "meaning": [
+        "like that",
+        "in that way",
+        "or so",
+        "so",
+        "so very much",
+        "about",
+        "in that case"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0019",
+      "hanzi": "向",
+      "pinyin": "xiang4",
+      "meaning": [
+        "surname Xiang",
+        "towards",
+        "to face",
+        "to turn towards",
+        "direction",
+        "to support",
+        "to side with",
+        "shortly before",
+        "formerly",
+        "always",
+        "all along",
+        "(suffix) suitable for ...",
+        "oriented to ...",
+        "to tend toward",
+        "to guide",
+        "variant of 向",
+        "orientation",
+        "to turn toward",
+        "to"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0020",
+      "hanzi": "这么",
+      "pinyin": "zhe4 me5",
+      "meaning": [
+        "so much",
+        "this much",
+        "how much?",
+        "this way",
+        "like this"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0021",
+      "hanzi": "认为",
+      "pinyin": "ren4 wei2",
+      "meaning": [
+        "to believe; to think; to consider; to feel"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0022",
+      "hanzi": "应该",
+      "pinyin": "ying1 gai1",
+      "meaning": [
+        "ought to",
+        "should",
+        "must"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0023",
+      "hanzi": "带",
+      "pinyin": "dai4",
+      "meaning": [
+        "band",
+        "belt",
+        "girdle",
+        "ribbon",
+        "tire",
+        "area",
+        "zone",
+        "region",
+        "to wear",
+        "to carry",
+        "to take along",
+        "to bear (i.e. to have)",
+        "to lead",
+        "to bring",
+        "to look after",
+        "to raise"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0024",
+      "hanzi": "位",
+      "pinyin": "wei4",
+      "meaning": [
+        "position",
+        "location",
+        "place",
+        "seat",
+        "classifier for people (honorific)",
+        "classifier for binary bits (e.g. 十六位 16-bit or 2 bytes)",
+        "(physics) potential"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0025",
+      "hanzi": "大家",
+      "pinyin": "da4 jia1",
+      "meaning": [
+        "everyone",
+        "influential family",
+        "great expert"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0026",
+      "hanzi": "发现",
+      "pinyin": "fa1 xian4",
+      "meaning": [
+        "to notice; to become aware of",
+        "to discover; to find; to detect",
+        "a discovery"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0027",
+      "hanzi": "一定",
+      "pinyin": "yi1 ding4",
+      "meaning": [
+        "surely",
+        "certainly",
+        "necessarily",
+        "fixed",
+        "a certain (extent etc)",
+        "given",
+        "particular",
+        "must"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0028",
+      "hanzi": "生活",
+      "pinyin": "sheng1 huo2",
+      "meaning": [
+        "to live",
+        "life",
+        "livelihood"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0029",
+      "hanzi": "一直",
+      "pinyin": "yi1 zhi2",
+      "meaning": [
+        "straight (in a straight line)",
+        "continuously; always; all the way through"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0030",
+      "hanzi": "不过",
+      "pinyin": "bu4 guo4",
+      "meaning": [
+        "only",
+        "merely",
+        "no more than",
+        "but",
+        "however",
+        "anyway (to get back to a previous topic)",
+        "cannot be more (after adjectival)"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0031",
+      "hanzi": "公司",
+      "pinyin": "gong1 si1",
+      "meaning": [
+        "company; firm; corporation"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0032",
+      "hanzi": "不要",
+      "pinyin": "bu4 yao4",
+      "meaning": [
+        "don't!",
+        "must not"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0033",
+      "hanzi": "成",
+      "pinyin": "cheng2",
+      "meaning": [
+        "surname Cheng",
+        "to succeed",
+        "to finish",
+        "to complete",
+        "to accomplish",
+        "to become",
+        "to turn into",
+        "to be all right",
+        "OK!",
+        "one tenth"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0034",
+      "hanzi": "名",
+      "pinyin": "ming2",
+      "meaning": [
+        "name",
+        "noun (part of speech)",
+        "place (e.g. among winners)",
+        "famous",
+        "classifier for people"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0035",
+      "hanzi": "所有",
+      "pinyin": "suo3 you3",
+      "meaning": [
+        "all",
+        "to have; to possess; to own"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0036",
+      "hanzi": "而且",
+      "pinyin": "er2 qie3",
+      "meaning": [
+        "(not only ...) but also",
+        "moreover",
+        "in addition",
+        "furthermore"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0037",
+      "hanzi": "必须",
+      "pinyin": "bi4 xu1",
+      "meaning": [
+        "to have to",
+        "must",
+        "compulsory",
+        "necessarily"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0038",
+      "hanzi": "成为",
+      "pinyin": "cheng2 wei2",
+      "meaning": [
+        "to become; to turn into"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0039",
+      "hanzi": "其他",
+      "pinyin": "qi2 ta1",
+      "meaning": [
+        "other",
+        "(sth or sb) else",
+        "the rest"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0040",
+      "hanzi": "事情",
+      "pinyin": "shi4 qing5",
+      "meaning": [
+        "affair; matter; thing; business"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0041",
+      "hanzi": "感觉",
+      "pinyin": "gan3 jue2",
+      "meaning": [
+        "feeling; impression; sensation",
+        "to feel; to perceive"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0042",
+      "hanzi": "然后",
+      "pinyin": "ran2 hou4",
+      "meaning": [
+        "then; after that; afterwards"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0043",
+      "hanzi": "条",
+      "pinyin": "tiao2",
+      "meaning": [
+        "strip",
+        "item",
+        "article",
+        "clause (of law or treaty)",
+        "classifier for long thin things (ribbon, river, road, trousers etc)"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0044",
+      "hanzi": "件",
+      "pinyin": "jian4",
+      "meaning": [
+        "item",
+        "component",
+        "classifier for events, things, clothes etc"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0045",
+      "hanzi": "进行",
+      "pinyin": "jin4 xing2",
+      "meaning": [
+        "to advance",
+        "to conduct",
+        "underway",
+        "in progress",
+        "to do",
+        "to carry out",
+        "to carry on",
+        "to execute"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0046",
+      "hanzi": "为什么",
+      "pinyin": "wei4 shen2 me5",
+      "meaning": [
+        "why?",
+        "for what reason?"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0047",
+      "hanzi": "或",
+      "pinyin": "huo4",
+      "meaning": [
+        "maybe",
+        "perhaps",
+        "might",
+        "possibly",
+        "or"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0048",
+      "hanzi": "出现",
+      "pinyin": "chu1 xian4",
+      "meaning": [
+        "to appear",
+        "to arise",
+        "to emerge",
+        "to show up"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0049",
+      "hanzi": "见到",
+      "pinyin": "jian4 dao4",
+      "meaning": [
+        "to see"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0050",
+      "hanzi": "通过",
+      "pinyin": "tong1 guo4",
+      "meaning": [
+        "to pass through; to get through",
+        "to adopt (a resolution); to pass (legislation)",
+        "to pass (a test)",
+        "by means of; through; via"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0051",
+      "hanzi": "周",
+      "pinyin": "zhou1",
+      "meaning": [
+        "surname Zhou",
+        "Zhou Dynasty (1046-256 BC)",
+        "to make a circuit",
+        "to circle",
+        "circle",
+        "circumference",
+        "lap",
+        "cycle",
+        "complete",
+        "all",
+        "all over",
+        "thorough",
+        "to help financially",
+        "week",
+        "weekly",
+        "variant of 周"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0052",
+      "hanzi": "参加",
+      "pinyin": "can1 jia1",
+      "meaning": [
+        "to participate",
+        "to take part",
+        "to join"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0053",
+      "hanzi": "安全",
+      "pinyin": "an1 quan2",
+      "meaning": [
+        "safe; secure",
+        "safety; security"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0054",
+      "hanzi": "或者",
+      "pinyin": "huo4 zhe3",
+      "meaning": [
+        "or",
+        "possibly; maybe; perhaps"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0055",
+      "hanzi": "不错",
+      "pinyin": "bu4 cuo4",
+      "meaning": [
+        "correct",
+        "right",
+        "not bad",
+        "pretty good"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0056",
+      "hanzi": "机会",
+      "pinyin": "ji1 hui4",
+      "meaning": [
+        "opportunity",
+        "chance",
+        "occasion"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0057",
+      "hanzi": "完全",
+      "pinyin": "wan2 quan2",
+      "meaning": [
+        "complete; whole",
+        "totally; entirely"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0058",
+      "hanzi": "完",
+      "pinyin": "wan2",
+      "meaning": [
+        "to finish",
+        "to be over",
+        "whole",
+        "complete",
+        "entire"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0059",
+      "hanzi": "计划",
+      "pinyin": "ji4 hua4",
+      "meaning": [
+        "plan",
+        "project",
+        "program",
+        "to plan",
+        "to map out"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0060",
+      "hanzi": "可是",
+      "pinyin": "ke3 shi4",
+      "meaning": [
+        "but; however",
+        "(used for emphasis) indeed"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0061",
+      "hanzi": "全",
+      "pinyin": "quan2",
+      "meaning": [
+        "surname Quan",
+        "all",
+        "whole",
+        "entire",
+        "every",
+        "complete"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0062",
+      "hanzi": "以后",
+      "pinyin": "yi3 hou4",
+      "meaning": [
+        "after",
+        "later",
+        "afterwards",
+        "following",
+        "later on",
+        "in the future"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0063",
+      "hanzi": "要求",
+      "pinyin": "yao1 qiu2",
+      "meaning": [
+        "to request",
+        "to require",
+        "requirement",
+        "to stake a claim",
+        "to ask",
+        "to demand"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0064",
+      "hanzi": "信",
+      "pinyin": "xin4",
+      "meaning": [
+        "letter",
+        "mail",
+        "to trust",
+        "to believe",
+        "to profess faith in",
+        "truthful",
+        "confidence",
+        "trust",
+        "at will",
+        "at random"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0065",
+      "hanzi": "队",
+      "pinyin": "dui4",
+      "meaning": [
+        "squadron",
+        "team",
+        "group"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0066",
+      "hanzi": "接",
+      "pinyin": "jie1",
+      "meaning": [
+        "to receive",
+        "to answer (the phone)",
+        "to meet or welcome sb",
+        "to connect",
+        "to catch",
+        "to join",
+        "to extend",
+        "to take one's turn on duty",
+        "to take over for sb"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0067",
+      "hanzi": "相信",
+      "pinyin": "xiang1 xin4",
+      "meaning": [
+        "to be convinced (that sth is true); to believe; to accept sth as true"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0068",
+      "hanzi": "刚",
+      "pinyin": "gang1",
+      "meaning": [
+        "hard",
+        "firm",
+        "strong",
+        "just",
+        "barely",
+        "exactly"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0069",
+      "hanzi": "虽然",
+      "pinyin": "sui1 ran2",
+      "meaning": [
+        "although; even though (often used correlatively with 是 or 是 etc)"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0070",
+      "hanzi": "原因",
+      "pinyin": "yuan2 yin1",
+      "meaning": [
+        "cause",
+        "origin",
+        "root cause",
+        "reason"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0071",
+      "hanzi": "只要",
+      "pinyin": "zhi3 yao4",
+      "meaning": [
+        "if only",
+        "so long as"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0072",
+      "hanzi": "不同",
+      "pinyin": "bu4 tong2",
+      "meaning": [
+        "different",
+        "distinct",
+        "not the same",
+        "not alike"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0073",
+      "hanzi": "进入",
+      "pinyin": "jin4 ru4",
+      "meaning": [
+        "to enter",
+        "to join",
+        "to go into"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0074",
+      "hanzi": "有人",
+      "pinyin": "you3 ren2",
+      "meaning": [
+        "someone",
+        "people",
+        "anyone",
+        "there is someone there",
+        "occupied (as in restroom)"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0075",
+      "hanzi": "分钟",
+      "pinyin": "fen1 zhong1",
+      "meaning": [
+        "minute"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0076",
+      "hanzi": "接受",
+      "pinyin": "jie1 shou4",
+      "meaning": [
+        "to accept",
+        "to receive"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0077",
+      "hanzi": "其中",
+      "pinyin": "qi2 zhong1",
+      "meaning": [
+        "among",
+        "in",
+        "included among these"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0078",
+      "hanzi": "人们",
+      "pinyin": "ren2 men5",
+      "meaning": [
+        "people"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0079",
+      "hanzi": "道",
+      "pinyin": "dao4",
+      "meaning": [
+        "road",
+        "path",
+        "principle",
+        "truth",
+        "morality",
+        "reason",
+        "skill",
+        "method",
+        "Dao (of Daoism)",
+        "to say",
+        "to speak",
+        "to talk",
+        "classifier for long thin things (rivers, cracks etc), barriers (walls, doors etc), questions (in an exam etc), commands, courses in a meal, steps in a process",
+        "(old) circuit (administrative division)"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0080",
+      "hanzi": "能够",
+      "pinyin": "neng2 gou4",
+      "meaning": [
+        "to be capable of",
+        "to be able to",
+        "can"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0081",
+      "hanzi": "拉",
+      "pinyin": "la1",
+      "meaning": [
+        "to pull",
+        "to play (a bowed instrument)",
+        "to drag",
+        "to draw",
+        "to chat",
+        "(coll.) to empty one's bowels"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0082",
+      "hanzi": "完成",
+      "pinyin": "wan2 cheng2",
+      "meaning": [
+        "to complete; to accomplish"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0083",
+      "hanzi": "求",
+      "pinyin": "qiu2",
+      "meaning": [
+        "to seek",
+        "to look for",
+        "to request",
+        "to demand",
+        "to beseech"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0084",
+      "hanzi": "帮助",
+      "pinyin": "bang1 zhu4",
+      "meaning": [
+        "assistance; aid",
+        "to help; to assist"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0085",
+      "hanzi": "变",
+      "pinyin": "bian4",
+      "meaning": [
+        "to change",
+        "to become different",
+        "to transform",
+        "to vary",
+        "rebellion"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0086",
+      "hanzi": "加",
+      "pinyin": "jia1",
+      "meaning": [
+        "Canada (abbr. for 大)",
+        "surname Jia",
+        "to add",
+        "plus",
+        "(used after an adverb such as 不, 大, 稍 etc, and before a disyllabic verb, to indicate that the action of the verb is applied to sth or sb previously mentioned)",
+        "to apply (restrictions etc) to (sb)",
+        "to give (support, consideration etc) to (sth)"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0087",
+      "hanzi": "努力",
+      "pinyin": "nu3 li4",
+      "meaning": [
+        "to make an effort; to try hard; to strive",
+        "hard-working; conscientious"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0088",
+      "hanzi": "部分",
+      "pinyin": "bu4 fen5",
+      "meaning": [
+        "part",
+        "share",
+        "section",
+        "piece"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0089",
+      "hanzi": "以前",
+      "pinyin": "yi3 qian2",
+      "meaning": [
+        "before",
+        "formerly",
+        "previous",
+        "ago"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0090",
+      "hanzi": "办法",
+      "pinyin": "ban4 fa3",
+      "meaning": [
+        "means",
+        "method",
+        "way (of doing sth)"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0091",
+      "hanzi": "特别",
+      "pinyin": "te4 bie2",
+      "meaning": [
+        "unusual; special",
+        "very; especially; particularly",
+        "expressly; for a specific purpose",
+        "(often followed by 是) in particular"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0092",
+      "hanzi": "真正",
+      "pinyin": "zhen1 zheng4",
+      "meaning": [
+        "genuine; real; true",
+        "really; indeed"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0093",
+      "hanzi": "掉",
+      "pinyin": "diao4",
+      "meaning": [
+        "to fall",
+        "to drop",
+        "to lag behind",
+        "to lose",
+        "to go missing",
+        "to reduce",
+        "fall (in prices)",
+        "to lose (value, weight etc)",
+        "to wag",
+        "to swing",
+        "to turn",
+        "to change",
+        "to exchange",
+        "to swap",
+        "to show off",
+        "to shed (hair)",
+        "(used after certain verbs to express completion, fulfillment, removal etc)"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0094",
+      "hanzi": "改变",
+      "pinyin": "gai3 bian4",
+      "meaning": [
+        "to change",
+        "to alter",
+        "to transform"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0095",
+      "hanzi": "讲",
+      "pinyin": "jiang3",
+      "meaning": [
+        "to speak",
+        "to explain",
+        "to negotiate",
+        "to emphasize",
+        "to be particular about",
+        "as far as sth is concerned",
+        "speech",
+        "lecture"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0096",
+      "hanzi": "离开",
+      "pinyin": "li2 kai1",
+      "meaning": [
+        "to depart; to leave"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0097",
+      "hanzi": "生",
+      "pinyin": "sheng1",
+      "meaning": [
+        "to be born",
+        "to give birth",
+        "life",
+        "to grow",
+        "raw",
+        "uncooked",
+        "student"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0098",
+      "hanzi": "同时",
+      "pinyin": "tong2 shi2",
+      "meaning": [
+        "at the same time",
+        "simultaneously"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0099",
+      "hanzi": "以为",
+      "pinyin": "yi3 wei2",
+      "meaning": [
+        "to think (i.e. to take it to be true that ...) (Usually there is an implication that the notion is mistaken – except when expressing one's own current opinion.)"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0100",
+      "hanzi": "越",
+      "pinyin": "yue4",
+      "meaning": [
+        "generic word for peoples or states of south China or south Asia at different historical periods",
+        "abbr. for Vietnam 越南",
+        "to exceed",
+        "to climb over",
+        "to surpass",
+        "the more... the more"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0101",
+      "hanzi": "方法",
+      "pinyin": "fang1 fa3",
+      "meaning": [
+        "method",
+        "way",
+        "means"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0102",
+      "hanzi": "组",
+      "pinyin": "zu3",
+      "meaning": [
+        "surname Zu",
+        "to form",
+        "to organize",
+        "group",
+        "team",
+        "classifier for sets, series, groups of people, batteries"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0103",
+      "hanzi": "直接",
+      "pinyin": "zhi2 jie1",
+      "meaning": [
+        "direct (opposite: indirect 间接)",
+        "immediate",
+        "straightforward"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0104",
+      "hanzi": "卖",
+      "pinyin": "mai4",
+      "meaning": [
+        "to sell",
+        "to betray",
+        "to spare no effort",
+        "to show off or flaunt"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0105",
+      "hanzi": "选",
+      "pinyin": "xuan3",
+      "meaning": [
+        "to choose",
+        "to pick",
+        "to select",
+        "to elect"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0106",
+      "hanzi": "影响",
+      "pinyin": "ying3 xiang3",
+      "meaning": [
+        "influence",
+        "effect",
+        "to influence",
+        "to affect (usually adversely)",
+        "to disturb"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0107",
+      "hanzi": "永远",
+      "pinyin": "yong3 yuan3",
+      "meaning": [
+        "forever",
+        "eternal"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0108",
+      "hanzi": "方面",
+      "pinyin": "fang1 mian4",
+      "meaning": [
+        "respect",
+        "aspect",
+        "field",
+        "side"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0109",
+      "hanzi": "也许",
+      "pinyin": "ye3 xu3",
+      "meaning": [
+        "perhaps",
+        "maybe"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0110",
+      "hanzi": "面",
+      "pinyin": "mian4",
+      "meaning": [
+        "face",
+        "side",
+        "surface",
+        "aspect",
+        "top",
+        "classifier for objects with flat surfaces such as drums, mirrors, flags etc",
+        "variant of 面",
+        "flour",
+        "noodles",
+        "(of food) soft (not crunchy)",
+        "(slang) (of a person) ineffectual",
+        "spineless"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0111",
+      "hanzi": "活动",
+      "pinyin": "huo2 dong4",
+      "meaning": [
+        "to exercise",
+        "to move about",
+        "to operate",
+        "to use connections (personal influence)",
+        "loose",
+        "shaky",
+        "active",
+        "movable",
+        "activity",
+        "campaign",
+        "maneuver",
+        "behavior"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0112",
+      "hanzi": "份",
+      "pinyin": "fen4",
+      "meaning": [
+        "classifier for gifts, newspaper, magazine, papers, reports, contracts etc",
+        "variant of 分"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0113",
+      "hanzi": "信息",
+      "pinyin": "xin4 xi1",
+      "meaning": [
+        "information",
+        "news",
+        "message"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0114",
+      "hanzi": "最近",
+      "pinyin": "zui4 jin4",
+      "meaning": [
+        "recently",
+        "soon",
+        "nearest"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0115",
+      "hanzi": "换",
+      "pinyin": "huan4",
+      "meaning": [
+        "to exchange",
+        "to change (clothes etc)",
+        "to substitute",
+        "to switch",
+        "to convert (currency)"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0116",
+      "hanzi": "狗",
+      "pinyin": "gou3",
+      "meaning": [
+        "dog"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0117",
+      "hanzi": "靠",
+      "pinyin": "kao4",
+      "meaning": [
+        "to lean against or on",
+        "to stand by the side of",
+        "to come near to",
+        "to depend on",
+        "to trust",
+        "to fuck (vulgar)",
+        "traditional military costume drama where the performers wear armor (old)"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0118",
+      "hanzi": "脸",
+      "pinyin": "lian3",
+      "meaning": [
+        "face"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0119",
+      "hanzi": "快乐",
+      "pinyin": "kuai4 le4",
+      "meaning": [
+        "happy; joyful"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0120",
+      "hanzi": "使用",
+      "pinyin": "shi3 yong4",
+      "meaning": [
+        "to use",
+        "to employ",
+        "to apply",
+        "to make use of"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0121",
+      "hanzi": "来自",
+      "pinyin": "lai2 zi4",
+      "meaning": [
+        "to come from (a place)",
+        "From: (in email header)"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0122",
+      "hanzi": "段",
+      "pinyin": "duan4",
+      "meaning": [
+        "surname Duan",
+        "paragraph",
+        "section",
+        "segment",
+        "stage (of a process)",
+        "classifier for stories, periods of time, lengths of thread etc"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0123",
+      "hanzi": "检查",
+      "pinyin": "jian3 cha2",
+      "meaning": [
+        "inspection",
+        "to examine",
+        "to inspect"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0124",
+      "hanzi": "中心",
+      "pinyin": "zhong1 xin1",
+      "meaning": [
+        "center",
+        "heart",
+        "core"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0125",
+      "hanzi": "米",
+      "pinyin": "mi3",
+      "meaning": [
+        "surname Mi",
+        "rice",
+        "meter (classifier)"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0126",
+      "hanzi": "行动",
+      "pinyin": "xing2 dong4",
+      "meaning": [
+        "operation",
+        "action",
+        "to move about",
+        "mobile"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0127",
+      "hanzi": "开心",
+      "pinyin": "kai1 xin1",
+      "meaning": [
+        "to feel happy",
+        "to rejoice",
+        "to have a great time",
+        "to make fun of sb"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0128",
+      "hanzi": "懂",
+      "pinyin": "dong3",
+      "meaning": [
+        "to understand",
+        "to comprehend"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0129",
+      "hanzi": "带来",
+      "pinyin": "dai4 lai2",
+      "meaning": [
+        "to bring",
+        "(fig.) to bring about; to produce"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0130",
+      "hanzi": "办",
+      "pinyin": "ban4",
+      "meaning": [
+        "to do",
+        "to manage",
+        "to handle",
+        "to go about",
+        "to run",
+        "to set up",
+        "to deal with"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0131",
+      "hanzi": "算",
+      "pinyin": "suan4",
+      "meaning": [
+        "to regard as",
+        "to figure",
+        "to calculate",
+        "to compute"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0132",
+      "hanzi": "辆",
+      "pinyin": "liang4",
+      "meaning": [
+        "classifier for vehicles"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0133",
+      "hanzi": "药",
+      "pinyin": "yao4",
+      "meaning": [
+        "leaf of the iris",
+        "variant of 药",
+        "medicine",
+        "drug",
+        "substance used for a specific purpose (e.g. poisoning, explosion, fermenting)",
+        "to poison"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0134",
+      "hanzi": "留",
+      "pinyin": "liu2",
+      "meaning": [
+        "old variant of 留",
+        "to leave (a message etc)",
+        "to retain",
+        "to stay",
+        "to remain",
+        "to keep",
+        "to preserve"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0135",
+      "hanzi": "家庭",
+      "pinyin": "jia1 ting2",
+      "meaning": [
+        "family",
+        "household"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0136",
+      "hanzi": "交",
+      "pinyin": "jiao1",
+      "meaning": [
+        "to hand over",
+        "to deliver",
+        "to pay (money)",
+        "to turn over",
+        "to make friends",
+        "to intersect (lines)",
+        "variant of 跤"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0137",
+      "hanzi": "套",
+      "pinyin": "tao4",
+      "meaning": [
+        "to cover",
+        "to encase",
+        "cover",
+        "sheath",
+        "to overlap",
+        "to interleave",
+        "to model after",
+        "to copy",
+        "formula",
+        "harness",
+        "loop of rope",
+        "(fig.) to fish for",
+        "to obtain slyly",
+        "classifier for sets, collections",
+        "bend (of a river or mountain range, in place names)",
+        "tau (Greek letter Ττ)"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0138",
+      "hanzi": "全部",
+      "pinyin": "quan2 bu4",
+      "meaning": [
+        "whole; all"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0139",
+      "hanzi": "刚刚",
+      "pinyin": "gang1 gang5",
+      "meaning": [
+        "just recently",
+        "just a moment ago"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0140",
+      "hanzi": "正常",
+      "pinyin": "zheng4 chang2",
+      "meaning": [
+        "regular",
+        "normal",
+        "ordinary"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0141",
+      "hanzi": "黑",
+      "pinyin": "hei1",
+      "meaning": [
+        "abbr. for Heilongjiang province 黑龙江",
+        "black",
+        "dark",
+        "sinister",
+        "secret",
+        "shady",
+        "illegal",
+        "to hide (sth) away",
+        "to vilify",
+        "(loanword) to hack (computing)"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0142",
+      "hanzi": "店",
+      "pinyin": "dian4",
+      "meaning": [
+        "inn; old-style hotel",
+        "(bound form) shop; store"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0143",
+      "hanzi": "服务",
+      "pinyin": "fu2 wu4",
+      "meaning": [
+        "to serve",
+        "service"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0144",
+      "hanzi": "想到",
+      "pinyin": "xiang3 dao4",
+      "meaning": [
+        "to think of",
+        "to call to mind",
+        "to anticipate"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0145",
+      "hanzi": "行为",
+      "pinyin": "xing2 wei2",
+      "meaning": [
+        "action",
+        "conduct",
+        "behavior",
+        "activity"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0146",
+      "hanzi": "挺",
+      "pinyin": "ting3",
+      "meaning": [
+        "straight",
+        "erect",
+        "to stick out (a part of the body)",
+        "to (physically) straighten up",
+        "to support",
+        "to withstand",
+        "outstanding",
+        "(coll.) quite",
+        "very",
+        "classifier for machine guns"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0147",
+      "hanzi": "好像",
+      "pinyin": "hao3 xiang4",
+      "meaning": [
+        "as if",
+        "to seem like"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0148",
+      "hanzi": "克",
+      "pinyin": "ke4",
+      "meaning": [
+        "abbr. for 克罗地亚, Croatia",
+        "(Tw) abbr. for 克罗埃西亚, Croatia",
+        "to be able to",
+        "to subdue",
+        "to restrain",
+        "to overcome",
+        "gram",
+        "Tibetan unit of land area, about 6 ares",
+        "Ke (c. 2000 BC), seventh of the legendary Flame Emperors, 帝 descended from Shennong 神农 Farmer God",
+        "variant of 克",
+        "to overthrow"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0149",
+      "hanzi": "愿意",
+      "pinyin": "yuan4 yi4",
+      "meaning": [
+        "to wish",
+        "to want",
+        "ready",
+        "willing (to do sth)"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0150",
+      "hanzi": "装",
+      "pinyin": "zhuang1",
+      "meaning": [
+        "adornment",
+        "to adorn",
+        "dress",
+        "clothing",
+        "costume (of an actor in a play)",
+        "to play a role",
+        "to pretend",
+        "to install",
+        "to fix",
+        "to wrap (sth in a bag)",
+        "to load",
+        "to pack"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0151",
+      "hanzi": "音乐",
+      "pinyin": "yin1 yue4",
+      "meaning": [
+        "music"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0152",
+      "hanzi": "感谢",
+      "pinyin": "gan3 xie4",
+      "meaning": [
+        "(express) thanks",
+        "gratitude",
+        "grateful",
+        "thankful",
+        "thanks"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0153",
+      "hanzi": "座",
+      "pinyin": "zuo4",
+      "meaning": [
+        "seat",
+        "base",
+        "stand",
+        "(archaic) suffix used in a respectful form of address, e.g. 师座",
+        "classifier for buildings, mountains and similar immovable objects"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0154",
+      "hanzi": "那样",
+      "pinyin": "na4 yang4",
+      "meaning": [
+        "that kind",
+        "that sort"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0155",
+      "hanzi": "往",
+      "pinyin": "wang3",
+      "meaning": [
+        "to go (in a direction)",
+        "to",
+        "towards",
+        "(of a train) bound for",
+        "past",
+        "previous",
+        "old variant of 往"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0156",
+      "hanzi": "眼",
+      "pinyin": "yan3",
+      "meaning": [
+        "eye",
+        "small hole",
+        "crux (of a matter)",
+        "classifier for big hollow things (wells, stoves, pots etc)"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0157",
+      "hanzi": "感到",
+      "pinyin": "gan3 dao4",
+      "meaning": [
+        "to feel; to sense; to perceive"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0158",
+      "hanzi": "清楚",
+      "pinyin": "qing1 chu5",
+      "meaning": [
+        "clear",
+        "distinct",
+        "to understand thoroughly",
+        "to be clear about"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0159",
+      "hanzi": "照片",
+      "pinyin": "zhao4 pian4",
+      "meaning": [
+        "photograph",
+        "picture"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0160",
+      "hanzi": "停",
+      "pinyin": "ting2",
+      "meaning": [
+        "to stop",
+        "to halt",
+        "to park (a car)"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0161",
+      "hanzi": "银行",
+      "pinyin": "yin2 hang2",
+      "meaning": [
+        "bank"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0162",
+      "hanzi": "气",
+      "pinyin": "qi4",
+      "meaning": [
+        "gas; air",
+        "smell",
+        "weather",
+        "to make angry; to annoy; to get angry",
+        "vital energy; qi"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0163",
+      "hanzi": "酒",
+      "pinyin": "jiu3",
+      "meaning": [
+        "wine (esp. rice wine)",
+        "liquor",
+        "spirits",
+        "alcoholic beverage"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0164",
+      "hanzi": "原来",
+      "pinyin": "yuan2 lai2",
+      "meaning": [
+        "original",
+        "former",
+        "originally",
+        "formerly",
+        "at first",
+        "so, actually, as it turns out"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0165",
+      "hanzi": "它们",
+      "pinyin": "ta1 men5",
+      "meaning": [
+        "they (for inanimate objects)"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0166",
+      "hanzi": "红",
+      "pinyin": "hong2",
+      "meaning": [
+        "surname Hong",
+        "red",
+        "popular",
+        "revolutionary",
+        "bonus"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0167",
+      "hanzi": "欢迎",
+      "pinyin": "huan1 ying2",
+      "meaning": [
+        "to welcome",
+        "welcome"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0168",
+      "hanzi": "一般",
+      "pinyin": "yi1 ban1",
+      "meaning": [
+        "same",
+        "ordinary",
+        "so-so",
+        "common",
+        "general",
+        "generally",
+        "in general"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0169",
+      "hanzi": "可爱",
+      "pinyin": "ke3 ai4",
+      "meaning": [
+        "adorable",
+        "cute",
+        "lovely"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0170",
+      "hanzi": "新闻",
+      "pinyin": "xin1 wen2",
+      "meaning": [
+        "news"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0171",
+      "hanzi": "眼睛",
+      "pinyin": "yan3 jing5",
+      "meaning": [
+        "eye"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0172",
+      "hanzi": "做到",
+      "pinyin": "zuo4 dao4",
+      "meaning": [
+        "to accomplish",
+        "to achieve"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0173",
+      "hanzi": "近",
+      "pinyin": "jin4",
+      "meaning": [
+        "near",
+        "close to",
+        "approximately"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0174",
+      "hanzi": "怎样",
+      "pinyin": "zen3 yang4",
+      "meaning": [
+        "how",
+        "what kind"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0175",
+      "hanzi": "收",
+      "pinyin": "shou1",
+      "meaning": [
+        "to receive",
+        "to accept",
+        "to collect",
+        "to put away",
+        "to restrain",
+        "to stop",
+        "in care of (used on address line after name)"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0176",
+      "hanzi": "声音",
+      "pinyin": "sheng1 yin1",
+      "meaning": [
+        "voice",
+        "sound"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0177",
+      "hanzi": "变成",
+      "pinyin": "bian4 cheng2",
+      "meaning": [
+        "to change into",
+        "to turn into",
+        "to become"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0178",
+      "hanzi": "受到",
+      "pinyin": "shou4 dao4",
+      "meaning": [
+        "to receive (praise, an education, punishment etc)",
+        "to be ...ed (praised, educated, punished etc)"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0179",
+      "hanzi": "经过",
+      "pinyin": "jing1 guo4",
+      "meaning": [
+        "to pass",
+        "to go through",
+        "process",
+        "course"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0180",
+      "hanzi": "只能",
+      "pinyin": "zhi3 neng2",
+      "meaning": [
+        "can only",
+        "obliged to do sth",
+        "to have no other choice"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0181",
+      "hanzi": "哭",
+      "pinyin": "ku1",
+      "meaning": [
+        "to cry; to weep"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0182",
+      "hanzi": "怕",
+      "pinyin": "pa4",
+      "meaning": [
+        "surname Pa",
+        "to be afraid",
+        "to fear",
+        "to dread",
+        "to be unable to endure",
+        "perhaps"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0183",
+      "hanzi": "漂亮",
+      "pinyin": "piao4 liang5",
+      "meaning": [
+        "pretty",
+        "beautiful"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0184",
+      "hanzi": "重新",
+      "pinyin": "chong2 xin1",
+      "meaning": [
+        "again; once more; re-"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0185",
+      "hanzi": "经常",
+      "pinyin": "jing1 chang2",
+      "meaning": [
+        "frequently; constantly; regularly; often",
+        "day-to-day; everyday; daily"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0186",
+      "hanzi": "面前",
+      "pinyin": "mian4 qian2",
+      "meaning": [
+        "in front of",
+        "facing",
+        "(in the) presence (of)"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0187",
+      "hanzi": "低",
+      "pinyin": "di1",
+      "meaning": [
+        "low",
+        "beneath",
+        "to lower (one's head)",
+        "to let droop",
+        "to hang down",
+        "to incline"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0188",
+      "hanzi": "节目",
+      "pinyin": "jie2 mu4",
+      "meaning": [
+        "program",
+        "item (on a program)"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0189",
+      "hanzi": "健康",
+      "pinyin": "jian4 kang1",
+      "meaning": [
+        "health",
+        "healthy"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0190",
+      "hanzi": "作用",
+      "pinyin": "zuo4 yong4",
+      "meaning": [
+        "to act on",
+        "to affect",
+        "action",
+        "function",
+        "activity",
+        "impact",
+        "result",
+        "effect",
+        "purpose",
+        "intent",
+        "(suffix) -ation, -tion etc, as in 用, inhibition"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0191",
+      "hanzi": "满",
+      "pinyin": "man3",
+      "meaning": [
+        "Manchu ethnic group",
+        "to fill",
+        "full",
+        "filled",
+        "packed",
+        "fully",
+        "completely",
+        "quite",
+        "to reach the limit",
+        "to satisfy",
+        "satisfied",
+        "contented"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0192",
+      "hanzi": "说明",
+      "pinyin": "shuo1 ming2",
+      "meaning": [
+        "to explain",
+        "to illustrate",
+        "to indicate",
+        "to show",
+        "to prove",
+        "explanation",
+        "directions",
+        "caption"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0193",
+      "hanzi": "许多",
+      "pinyin": "xu3 duo1",
+      "meaning": [
+        "many",
+        "a lot of",
+        "much"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0194",
+      "hanzi": "同样",
+      "pinyin": "tong2 yang4",
+      "meaning": [
+        "same",
+        "equal",
+        "equivalent"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0195",
+      "hanzi": "身边",
+      "pinyin": "shen1 bian1",
+      "meaning": [
+        "at one's side",
+        "on hand"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0196",
+      "hanzi": "越来越",
+      "pinyin": "yue4 lai2 yue4",
+      "meaning": [
+        "more and more"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0197",
+      "hanzi": "短",
+      "pinyin": "duan3",
+      "meaning": [
+        "short",
+        "brief",
+        "to lack",
+        "weak point",
+        "fault"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0198",
+      "hanzi": "意思",
+      "pinyin": "yi4 si5",
+      "meaning": [
+        "idea",
+        "opinion",
+        "meaning",
+        "wish",
+        "desire",
+        "interest",
+        "fun",
+        "token of appreciation, affection etc",
+        "to give as a small token",
+        "to do sth as a gesture of goodwill etc"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0199",
+      "hanzi": "意见",
+      "pinyin": "yi4 jian4",
+      "meaning": [
+        "idea",
+        "opinion",
+        "suggestion",
+        "objection",
+        "complaint"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0200",
+      "hanzi": "主要",
+      "pinyin": "zhu3 yao4",
+      "meaning": [
+        "main",
+        "principal",
+        "major",
+        "primary"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0201",
+      "hanzi": "市",
+      "pinyin": "shi4",
+      "meaning": [
+        "market",
+        "city"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0202",
+      "hanzi": "不少",
+      "pinyin": "bu4 shao3",
+      "meaning": [
+        "many",
+        "a lot",
+        "not few"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0203",
+      "hanzi": "讨论",
+      "pinyin": "tao3 lun4",
+      "meaning": [
+        "to discuss; to talk over"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0204",
+      "hanzi": "超过",
+      "pinyin": "chao1 guo4",
+      "meaning": [
+        "to surpass",
+        "to exceed",
+        "to outstrip"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0205",
+      "hanzi": "比如",
+      "pinyin": "bi3 ru2",
+      "meaning": [
+        "for example",
+        "for instance",
+        "such as"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0206",
+      "hanzi": "后来",
+      "pinyin": "hou4 lai2",
+      "meaning": [
+        "afterwards; later",
+        "newly arrived"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0207",
+      "hanzi": "嘴",
+      "pinyin": "zui3",
+      "meaning": [
+        "mouth",
+        "beak",
+        "nozzle",
+        "spout (of teapot etc)"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0208",
+      "hanzi": "自由",
+      "pinyin": "zi4 you2",
+      "meaning": [
+        "freedom; liberty",
+        "free; unrestricted"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0209",
+      "hanzi": "改",
+      "pinyin": "gai3",
+      "meaning": [
+        "to change",
+        "to alter",
+        "to transform",
+        "to correct"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0210",
+      "hanzi": "就要",
+      "pinyin": "jiu4 yao4",
+      "meaning": [
+        "will",
+        "shall",
+        "to be going to"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0211",
+      "hanzi": "加油",
+      "pinyin": "jia1 you2",
+      "meaning": [
+        "to add oil",
+        "to top up with gas",
+        "to refuel",
+        "to accelerate",
+        "to step on the gas",
+        "(fig.) to make an extra effort",
+        "to cheer sb on"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0212",
+      "hanzi": "海",
+      "pinyin": "hai3",
+      "meaning": [
+        "surname Hai",
+        "ocean",
+        "sea",
+        "great number of people or things",
+        "(dialect) numerous"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0213",
+      "hanzi": "夜",
+      "pinyin": "ye4",
+      "meaning": [
+        "variant of 夜",
+        "night"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0214",
+      "hanzi": "十分",
+      "pinyin": "shi2 fen1",
+      "meaning": [
+        "very",
+        "completely",
+        "utterly",
+        "extremely",
+        "absolutely",
+        "hundred percent",
+        "to divide into ten equal parts"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0215",
+      "hanzi": "年轻",
+      "pinyin": "nian2 qing1",
+      "meaning": [
+        "young"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0216",
+      "hanzi": "条件",
+      "pinyin": "tiao2 jian4",
+      "meaning": [
+        "condition; circumstance; term; factor",
+        "requirement; prerequisite; qualification",
+        "situation; state; condition"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0217",
+      "hanzi": "晚安",
+      "pinyin": "wan3 an1",
+      "meaning": [
+        "Good night!",
+        "Good evening!"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0218",
+      "hanzi": "画",
+      "pinyin": "hua4",
+      "meaning": [
+        "to draw; to paint",
+        "picture; painting",
+        "to draw (a line) (variant of 划)",
+        "stroke of a Chinese character (variant of 划)",
+        "(calligraphy) horizontal stroke (variant of 划)"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0219",
+      "hanzi": "广告",
+      "pinyin": "guang3 gao4",
+      "meaning": [
+        "to advertise",
+        "a commercial",
+        "advertisement"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0220",
+      "hanzi": "提出",
+      "pinyin": "ti2 chu1",
+      "meaning": [
+        "to raise (an issue)",
+        "to propose",
+        "to put forward",
+        "to suggest",
+        "to post (on a website)",
+        "to withdraw (cash)"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0221",
+      "hanzi": "运动",
+      "pinyin": "yun4 dong4",
+      "meaning": [
+        "to move",
+        "to exercise",
+        "sports",
+        "exercise",
+        "motion",
+        "movement",
+        "campaign"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0222",
+      "hanzi": "样子",
+      "pinyin": "yang4 zi5",
+      "meaning": [
+        "appearance",
+        "manner",
+        "pattern",
+        "model"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0223",
+      "hanzi": "实现",
+      "pinyin": "shi2 xian4",
+      "meaning": [
+        "to achieve",
+        "to implement",
+        "to realize",
+        "to bring about"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0224",
+      "hanzi": "刚才",
+      "pinyin": "gang1 cai2",
+      "meaning": [
+        "just now",
+        "a moment ago",
+        "just now (variant of 刚才)"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0225",
+      "hanzi": "猫",
+      "pinyin": "mao1",
+      "meaning": [
+        "cat",
+        "(dialect) to hide oneself",
+        "(coll.) modem"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0226",
+      "hanzi": "办公室",
+      "pinyin": "ban4 gong1 shi4",
+      "meaning": [
+        "office",
+        "business premises",
+        "bureau"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0227",
+      "hanzi": "正确",
+      "pinyin": "zheng4 que4",
+      "meaning": [
+        "correct; sound; right; proper"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0228",
+      "hanzi": "爱情",
+      "pinyin": "ai4 qing2",
+      "meaning": [
+        "romance; love (romantic)"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0229",
+      "hanzi": "收到",
+      "pinyin": "shou1 dao4",
+      "meaning": [
+        "to receive"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0230",
+      "hanzi": "够",
+      "pinyin": "gou4",
+      "meaning": [
+        "enough (sufficient)",
+        "enough (too much)",
+        "(coll.) (before adj.) really",
+        "(coll.) to reach by stretching out"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0231",
+      "hanzi": "正是",
+      "pinyin": "zheng4 shi4",
+      "meaning": [
+        "is precisely"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0232",
+      "hanzi": "方向",
+      "pinyin": "fang1 xiang4",
+      "meaning": [
+        "direction; orientation"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0233",
+      "hanzi": "排",
+      "pinyin": "pai2",
+      "meaning": [
+        "a row",
+        "a line",
+        "to set in order",
+        "to arrange",
+        "to line up",
+        "to eliminate",
+        "to drain",
+        "to push open",
+        "platoon",
+        "raft",
+        "classifier for lines, rows etc"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0234",
+      "hanzi": "鱼",
+      "pinyin": "yu2",
+      "meaning": [
+        "surname Yu",
+        "fish"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0235",
+      "hanzi": "关心",
+      "pinyin": "guan1 xin1",
+      "meaning": [
+        "to be concerned about",
+        "to care about"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0236",
+      "hanzi": "留下",
+      "pinyin": "liu2 xia4",
+      "meaning": [
+        "to leave behind",
+        "to stay behind",
+        "to remain",
+        "to keep",
+        "not to let (sb) go"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0237",
+      "hanzi": "教育",
+      "pinyin": "jiao4 yu4",
+      "meaning": [
+        "to educate",
+        "to teach",
+        "education"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0238",
+      "hanzi": "日子",
+      "pinyin": "ri4 zi5",
+      "meaning": [
+        "day",
+        "a (calendar) date",
+        "days of one's life"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0239",
+      "hanzi": "取",
+      "pinyin": "qu3",
+      "meaning": [
+        "to take",
+        "to get",
+        "to choose",
+        "to fetch"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0240",
+      "hanzi": "层",
+      "pinyin": "ceng2",
+      "meaning": [
+        "to pile on top of one another",
+        "layer; stratum",
+        "floor (of a building); story",
+        "(math.) sheaf",
+        "classifier for layers"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0241",
+      "hanzi": "心里",
+      "pinyin": "xin1 li5",
+      "meaning": [
+        "chest",
+        "heart",
+        "mind"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0242",
+      "hanzi": "腿",
+      "pinyin": "tui3",
+      "meaning": [
+        "leg",
+        "hip bone",
+        "old variant of 腿"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0243",
+      "hanzi": "全国",
+      "pinyin": "quan2 guo2",
+      "meaning": [
+        "whole nation",
+        "nationwide",
+        "countrywide",
+        "national"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0244",
+      "hanzi": "街",
+      "pinyin": "jie1",
+      "meaning": [
+        "street"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0245",
+      "hanzi": "笔",
+      "pinyin": "bi3",
+      "meaning": [
+        "pen",
+        "pencil",
+        "writing brush",
+        "to write or compose",
+        "the strokes of Chinese characters",
+        "classifier for sums of money, deals"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0246",
+      "hanzi": "通知",
+      "pinyin": "tong1 zhi1",
+      "meaning": [
+        "to notify",
+        "to inform",
+        "notice",
+        "notification"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0247",
+      "hanzi": "鞋",
+      "pinyin": "xie2",
+      "meaning": [
+        "shoe",
+        "variant of 鞋"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0248",
+      "hanzi": "习惯",
+      "pinyin": "xi2 guan4",
+      "meaning": [
+        "habit",
+        "custom",
+        "usual practice",
+        "to be used to"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0249",
+      "hanzi": "目的",
+      "pinyin": "mu4 di4",
+      "meaning": [
+        "purpose; aim; goal; target; objective"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0250",
+      "hanzi": "国际",
+      "pinyin": "guo2 ji4",
+      "meaning": [
+        "international"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0251",
+      "hanzi": "周末",
+      "pinyin": "zhou1 mo4",
+      "meaning": [
+        "weekend"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0252",
+      "hanzi": "推",
+      "pinyin": "tui1",
+      "meaning": [
+        "to push",
+        "to cut",
+        "to refuse",
+        "to reject",
+        "to decline",
+        "to shirk (responsibility)",
+        "to put off",
+        "to delay",
+        "to push forward",
+        "to nominate",
+        "to elect",
+        "massage"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0253",
+      "hanzi": "听说",
+      "pinyin": "ting1 shuo1",
+      "meaning": [
+        "to hear (sth said)",
+        "one hears (that)",
+        "hearsay",
+        "listening and speaking"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0254",
+      "hanzi": "油",
+      "pinyin": "you2",
+      "meaning": [
+        "oil",
+        "fat",
+        "grease",
+        "petroleum",
+        "to apply tung oil, paint or varnish",
+        "oily",
+        "greasy",
+        "glib",
+        "cunning"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0255",
+      "hanzi": "科学",
+      "pinyin": "ke1 xue2",
+      "meaning": [
+        "science",
+        "scientific knowledge",
+        "scientific",
+        "rational"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0256",
+      "hanzi": "心情",
+      "pinyin": "xin1 qing2",
+      "meaning": [
+        "mood; frame of mind"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0257",
+      "hanzi": "接着",
+      "pinyin": "jie1 zhe5",
+      "meaning": [
+        "to catch and hold on",
+        "to continue",
+        "to go on to do sth",
+        "to follow",
+        "to carry on",
+        "then",
+        "after that",
+        "subsequently",
+        "to proceed",
+        "to ensue",
+        "in turn",
+        "in one's turn"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0258",
+      "hanzi": "流",
+      "pinyin": "liu2",
+      "meaning": [
+        "to flow",
+        "to disseminate",
+        "to circulate or spread",
+        "to move or drift",
+        "to degenerate",
+        "to banish or send into exile",
+        "stream of water or sth resembling one",
+        "class, rate or grade"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0259",
+      "hanzi": "实在",
+      "pinyin": "shi2 zai4",
+      "meaning": [
+        "really",
+        "actually",
+        "indeed",
+        "true",
+        "real",
+        "honest",
+        "dependable",
+        "(philosophy) reality"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0260",
+      "hanzi": "表",
+      "pinyin": "biao3",
+      "meaning": [
+        "exterior surface",
+        "family relationship via females",
+        "to show (one's opinion)",
+        "a model",
+        "a table (listing information)",
+        "a form",
+        "a meter (measuring sth)",
+        "watch (timepiece)",
+        "meter; gauge"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0261",
+      "hanzi": "船",
+      "pinyin": "chuan2",
+      "meaning": [
+        "variant of 船",
+        "boat",
+        "vessel",
+        "ship"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0262",
+      "hanzi": "养",
+      "pinyin": "yang3",
+      "meaning": [
+        "to raise (animals)",
+        "to bring up (children)",
+        "to keep (pets)",
+        "to support",
+        "to give birth"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0263",
+      "hanzi": "鸡",
+      "pinyin": "ji1",
+      "meaning": [
+        "fowl",
+        "chicken",
+        "(slang) prostitute"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0264",
+      "hanzi": "遍",
+      "pinyin": "bian4",
+      "meaning": [
+        "variant of 遍",
+        "everywhere",
+        "all over",
+        "classifier for actions: one time"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0265",
+      "hanzi": "怎么样",
+      "pinyin": "zen3 me5 yang4",
+      "meaning": [
+        "how?",
+        "how about?",
+        "how was it?",
+        "how are things?"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0266",
+      "hanzi": "瓶",
+      "pinyin": "ping2",
+      "meaning": [
+        "bottle",
+        "vase",
+        "pitcher",
+        "classifier for wine and liquids",
+        "variant of 瓶"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0267",
+      "hanzi": "普通",
+      "pinyin": "pu3 tong1",
+      "meaning": [
+        "common",
+        "ordinary",
+        "general",
+        "average"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0268",
+      "hanzi": "打算",
+      "pinyin": "da3 suan4",
+      "meaning": [
+        "to plan",
+        "to intend",
+        "to calculate",
+        "plan",
+        "intention",
+        "calculation"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0269",
+      "hanzi": "咱们",
+      "pinyin": "zan2 men5",
+      "meaning": [
+        "we or us (including both the speaker and the person(s) spoken to)",
+        "(dialect) I or me",
+        "(dialect) (in a coaxing or familiar way) you",
+        "also pr. [zá men]"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0270",
+      "hanzi": "小心",
+      "pinyin": "xiao3 xin1",
+      "meaning": [
+        "to be careful",
+        "to take care"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0271",
+      "hanzi": "不够",
+      "pinyin": "bu4 gou4",
+      "meaning": [
+        "not enough",
+        "insufficient",
+        "inadequate"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0272",
+      "hanzi": "怎么办",
+      "pinyin": "zen3 me5 ban4",
+      "meaning": [
+        "what's to be done"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0273",
+      "hanzi": "举行",
+      "pinyin": "ju3 xing2",
+      "meaning": [
+        "to hold (a meeting, ceremony etc)"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0274",
+      "hanzi": "想法",
+      "pinyin": "xiang3 fa3",
+      "meaning": [
+        "way of thinking; opinion; notion",
+        "to think of a way (to do sth)"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0275",
+      "hanzi": "动物",
+      "pinyin": "dong4 wu4",
+      "meaning": [
+        "animal"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0276",
+      "hanzi": "不行",
+      "pinyin": "bu4 xing2",
+      "meaning": [
+        "won't do",
+        "be out of the question",
+        "be no good",
+        "not work",
+        "not be capable"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0277",
+      "hanzi": "明星",
+      "pinyin": "ming2 xing1",
+      "meaning": [
+        "star; celebrity"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0278",
+      "hanzi": "级",
+      "pinyin": "ji2",
+      "meaning": [
+        "level",
+        "grade",
+        "rank",
+        "step (of stairs)",
+        "classifier: step, level"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0279",
+      "hanzi": "顺利",
+      "pinyin": "shun4 li4",
+      "meaning": [
+        "smoothly; without a hitch"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0280",
+      "hanzi": "水平",
+      "pinyin": "shui3 ping2",
+      "meaning": [
+        "level (of achievement etc)",
+        "standard",
+        "horizontal"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0281",
+      "hanzi": "网",
+      "pinyin": "wang3",
+      "meaning": [
+        "net",
+        "network"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0282",
+      "hanzi": "借",
+      "pinyin": "jie4",
+      "meaning": [
+        "to lend",
+        "to borrow",
+        "by means of",
+        "to take (an opportunity)",
+        "variant of 借"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0283",
+      "hanzi": "长大",
+      "pinyin": "zhang3 da4",
+      "meaning": [
+        "to grow up"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0284",
+      "hanzi": "交给",
+      "pinyin": "jiao1 gei3",
+      "meaning": [
+        "to give; to deliver; to hand over"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0285",
+      "hanzi": "头发",
+      "pinyin": "tou2 fa5",
+      "meaning": [
+        "hair (on the head)"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0286",
+      "hanzi": "封",
+      "pinyin": "feng1",
+      "meaning": [
+        "surname Feng",
+        "to confer",
+        "to grant",
+        "to bestow a title",
+        "to seal",
+        "classifier for sealed objects, esp. letters"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0287",
+      "hanzi": "蛋",
+      "pinyin": "dan4",
+      "meaning": [
+        "variant of 蜑",
+        "egg",
+        "oval-shaped thing"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0288",
+      "hanzi": "科",
+      "pinyin": "ke1",
+      "meaning": [
+        "branch of study",
+        "administrative section",
+        "division",
+        "field",
+        "branch",
+        "stage directions",
+        "family (taxonomy)",
+        "rules",
+        "laws",
+        "to mete out (punishment)",
+        "to levy (taxes etc)",
+        "to fine sb"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0289",
+      "hanzi": "词",
+      "pinyin": "ci2",
+      "meaning": [
+        "old variant of 词",
+        "word",
+        "statement",
+        "speech",
+        "lyrics",
+        "a form of lyric poetry, flourishing in the Song dynasty 宋朝"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0290",
+      "hanzi": "取得",
+      "pinyin": "qu3 de2",
+      "meaning": [
+        "to acquire; to get; to obtain"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0291",
+      "hanzi": "想起",
+      "pinyin": "xiang3 qi3",
+      "meaning": [
+        "to recall",
+        "to think of",
+        "to call to mind"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0292",
+      "hanzi": "蓝",
+      "pinyin": "lan2",
+      "meaning": [
+        "surname Lan",
+        "blue",
+        "indigo plant"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0293",
+      "hanzi": "纸",
+      "pinyin": "zhi3",
+      "meaning": [
+        "variant of 纸",
+        "paper",
+        "classifier for documents, letter etc"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0294",
+      "hanzi": "一生",
+      "pinyin": "yi1 sheng1",
+      "meaning": [
+        "all one's life; throughout one's life"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0295",
+      "hanzi": "照顾",
+      "pinyin": "zhao4 gu5",
+      "meaning": [
+        "to take care of",
+        "to show consideration",
+        "to attend to",
+        "to look after"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0296",
+      "hanzi": "急",
+      "pinyin": "ji2",
+      "meaning": [
+        "urgent",
+        "pressing",
+        "rapid",
+        "hurried",
+        "worried",
+        "to make (sb) anxious"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0297",
+      "hanzi": "疼",
+      "pinyin": "teng2",
+      "meaning": [
+        "(it) hurts; sore",
+        "to love dearly"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0298",
+      "hanzi": "态度",
+      "pinyin": "tai4 du5",
+      "meaning": [
+        "manner",
+        "bearing",
+        "attitude",
+        "approach"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0299",
+      "hanzi": "小组",
+      "pinyin": "xiao3 zu3",
+      "meaning": [
+        "group"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0300",
+      "hanzi": "数字",
+      "pinyin": "shu4 zi4",
+      "meaning": [
+        "numeral",
+        "digit",
+        "number",
+        "figure",
+        "amount",
+        "digital (electronics etc)"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0301",
+      "hanzi": "礼物",
+      "pinyin": "li3 wu4",
+      "meaning": [
+        "gift; present"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0302",
+      "hanzi": "酒店",
+      "pinyin": "jiu3 dian4",
+      "meaning": [
+        "wine shop",
+        "pub (public house)",
+        "hotel",
+        "restaurant",
+        "(Tw) hostess club"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0303",
+      "hanzi": "交通",
+      "pinyin": "jiao1 tong1",
+      "meaning": [
+        "to be connected",
+        "traffic",
+        "transportation",
+        "communications",
+        "liaison"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0304",
+      "hanzi": "亮",
+      "pinyin": "liang4",
+      "meaning": [
+        "bright",
+        "clear",
+        "resonant",
+        "to shine",
+        "to show",
+        "to reveal"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0305",
+      "hanzi": "篇",
+      "pinyin": "pian1",
+      "meaning": [
+        "sheet",
+        "piece of writing",
+        "bound set of bamboo slips used for record keeping (old)",
+        "classifier for written items: chapter, article"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0306",
+      "hanzi": "出口",
+      "pinyin": "chu1 kou3",
+      "meaning": [
+        "an exit",
+        "to speak",
+        "to export",
+        "(of a ship) to leave port"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0307",
+      "hanzi": "味道",
+      "pinyin": "wei4 dao5",
+      "meaning": [
+        "flavor; taste",
+        "(fig.) feeling (of ...); sense (of ...); hint (of ...)",
+        "(fig.) interest; delight",
+        "(dialect) smell; odor"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0308",
+      "hanzi": "平",
+      "pinyin": "ping2",
+      "meaning": [
+        "surname Ping",
+        "flat",
+        "level",
+        "equal",
+        "to tie (make the same score)",
+        "to draw (score)",
+        "calm",
+        "peaceful",
+        "abbr. for 平声"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0309",
+      "hanzi": "出发",
+      "pinyin": "chu1 fa1",
+      "meaning": [
+        "to set off",
+        "to start (on a journey)"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0310",
+      "hanzi": "接到",
+      "pinyin": "jie1 dao4",
+      "meaning": [
+        "to receive (letter etc)"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0311",
+      "hanzi": "提高",
+      "pinyin": "ti2 gao1",
+      "meaning": [
+        "to raise",
+        "to increase",
+        "to improve"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0312",
+      "hanzi": "千",
+      "pinyin": "qian1",
+      "meaning": [
+        "thousand",
+        "see 秋千"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0313",
+      "hanzi": "墙",
+      "pinyin": "qiang2",
+      "meaning": [
+        "variant of 墙, wall",
+        "wall"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0314",
+      "hanzi": "满意",
+      "pinyin": "man3 yi4",
+      "meaning": [
+        "satisfied",
+        "pleased",
+        "to one's satisfaction"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0315",
+      "hanzi": "食物",
+      "pinyin": "shi2 wu4",
+      "meaning": [
+        "food"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0316",
+      "hanzi": "司机",
+      "pinyin": "si1 ji1",
+      "meaning": [
+        "chauffeur; driver"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0317",
+      "hanzi": "大量",
+      "pinyin": "da4 liang4",
+      "meaning": [
+        "great amount",
+        "large quantity",
+        "bulk",
+        "numerous",
+        "generous",
+        "magnanimous"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0318",
+      "hanzi": "黄",
+      "pinyin": "huang2",
+      "meaning": [
+        "surname Huang or Hwang",
+        "yellow",
+        "pornographic",
+        "to fall through"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0319",
+      "hanzi": "轻",
+      "pinyin": "qing1",
+      "meaning": [
+        "light",
+        "easy",
+        "gentle",
+        "soft",
+        "reckless",
+        "unimportant",
+        "frivolous",
+        "small in number",
+        "unstressed",
+        "neutral",
+        "to disparage"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0320",
+      "hanzi": "信号",
+      "pinyin": "xin4 hao4",
+      "meaning": [
+        "signal"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0321",
+      "hanzi": "好多",
+      "pinyin": "hao3 duo1",
+      "meaning": [
+        "many",
+        "quite a lot",
+        "much better"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0322",
+      "hanzi": "经理",
+      "pinyin": "jing1 li3",
+      "meaning": [
+        "manager",
+        "director"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0323",
+      "hanzi": "大部分",
+      "pinyin": "da4 bu4 fen5",
+      "meaning": [
+        "in large part",
+        "the greater part",
+        "the majority"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0324",
+      "hanzi": "吹",
+      "pinyin": "chui1",
+      "meaning": [
+        "to blow",
+        "to play a wind instrument",
+        "to blast",
+        "to puff",
+        "to boast",
+        "to brag",
+        "to end in failure",
+        "to fall through"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0325",
+      "hanzi": "颜色",
+      "pinyin": "yan2 se4",
+      "meaning": [
+        "color",
+        "countenance",
+        "appearance",
+        "facial expression",
+        "pigment",
+        "dyestuff"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0326",
+      "hanzi": "成绩",
+      "pinyin": "cheng2 ji4",
+      "meaning": [
+        "achievement",
+        "performance records",
+        "grades"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0327",
+      "hanzi": "角度",
+      "pinyin": "jiao3 du4",
+      "meaning": [
+        "angle",
+        "point of view"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0328",
+      "hanzi": "多么",
+      "pinyin": "duo1 me5",
+      "meaning": [
+        "how (wonderful etc)",
+        "what (a great idea etc)",
+        "however (difficult it may be etc)",
+        "(in interrogative sentences) how (much etc)",
+        "to what extent"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0329",
+      "hanzi": "什么样",
+      "pinyin": "shen2 me5 yang4",
+      "meaning": [
+        "what kind?; what sort?"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0330",
+      "hanzi": "语言",
+      "pinyin": "yu3 yan2",
+      "meaning": [
+        "language"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0331",
+      "hanzi": "网站",
+      "pinyin": "wang3 zhan4",
+      "meaning": [
+        "website",
+        "network station",
+        "node"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0332",
+      "hanzi": "地球",
+      "pinyin": "di4 qiu2",
+      "meaning": [
+        "the earth"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0333",
+      "hanzi": "雪",
+      "pinyin": "xue3",
+      "meaning": [
+        "surname Xue",
+        "snow",
+        "(literary) to wipe away (a humiliation etc)"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0334",
+      "hanzi": "那时",
+      "pinyin": "na4 shi2",
+      "meaning": [
+        "then",
+        "at that time",
+        "in those days"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0335",
+      "hanzi": "实际",
+      "pinyin": "shi2 ji4",
+      "meaning": [
+        "reality",
+        "practice",
+        "practical",
+        "realistic",
+        "real",
+        "actual"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0336",
+      "hanzi": "心中",
+      "pinyin": "xin1 zhong1",
+      "meaning": [
+        "central point",
+        "in one's thoughts",
+        "in one's heart"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0337",
+      "hanzi": "灯",
+      "pinyin": "deng1",
+      "meaning": [
+        "lamp",
+        "light",
+        "lantern"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0338",
+      "hanzi": "太阳",
+      "pinyin": "tai4 yang5",
+      "meaning": [
+        "sun",
+        "abbr. for 太阳穴"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0339",
+      "hanzi": "可怕",
+      "pinyin": "ke3 pa4",
+      "meaning": [
+        "awful",
+        "dreadful",
+        "fearful",
+        "formidable",
+        "frightful",
+        "scary",
+        "hideous",
+        "horrible",
+        "terrible",
+        "terribly"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0340",
+      "hanzi": "方便",
+      "pinyin": "fang1 bian4",
+      "meaning": [
+        "convenient",
+        "suitable",
+        "to facilitate",
+        "to make things easy",
+        "having money to spare",
+        "(euphemism) to relieve oneself"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0341",
+      "hanzi": "爬",
+      "pinyin": "pa2",
+      "meaning": [
+        "to crawl",
+        "to climb",
+        "to get up or sit up"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0342",
+      "hanzi": "差不多",
+      "pinyin": "cha4 bu5 duo1",
+      "meaning": [
+        "almost",
+        "nearly",
+        "more or less",
+        "about the same",
+        "good enough",
+        "not bad"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0343",
+      "hanzi": "英语",
+      "pinyin": "ying1 yu3",
+      "meaning": [
+        "English (language)"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0344",
+      "hanzi": "空气",
+      "pinyin": "kong1 qi4",
+      "meaning": [
+        "air",
+        "atmosphere"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0345",
+      "hanzi": "以下",
+      "pinyin": "yi3 xia4",
+      "meaning": [
+        "that level or lower",
+        "that amount or less",
+        "the following"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0346",
+      "hanzi": "喊",
+      "pinyin": "han3",
+      "meaning": [
+        "to yell",
+        "to shout",
+        "to call out for (a person)"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0347",
+      "hanzi": "讲话",
+      "pinyin": "jiang3 hua4",
+      "meaning": [
+        "a speech",
+        "to speak",
+        "to talk",
+        "to address"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0348",
+      "hanzi": "大多数",
+      "pinyin": "da4 duo1 shu4",
+      "meaning": [
+        "(great) majority"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0349",
+      "hanzi": "随便",
+      "pinyin": "sui2 bian4",
+      "meaning": [
+        "as one wishes",
+        "as one pleases",
+        "at random",
+        "negligent",
+        "casual",
+        "wanton"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0350",
+      "hanzi": "随时",
+      "pinyin": "sui2 shi2",
+      "meaning": [
+        "at any time; at all times",
+        "at the right time; whenever necessary"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0351",
+      "hanzi": "合适",
+      "pinyin": "he2 shi4",
+      "meaning": [
+        "suitable",
+        "fitting",
+        "appropriate"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0352",
+      "hanzi": "相同",
+      "pinyin": "xiang1 tong2",
+      "meaning": [
+        "identical",
+        "same"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0353",
+      "hanzi": "出生",
+      "pinyin": "chu1 sheng1",
+      "meaning": [
+        "to be born"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0354",
+      "hanzi": "以上",
+      "pinyin": "yi3 shang4",
+      "meaning": [
+        "that level or higher",
+        "that amount or more",
+        "the above-mentioned",
+        "(used to indicate that one has completed one's remarks) That is all."
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0355",
+      "hanzi": "名单",
+      "pinyin": "ming2 dan1",
+      "meaning": [
+        "list of names"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0356",
+      "hanzi": "答应",
+      "pinyin": "da1 ying5",
+      "meaning": [
+        "to answer; to respond",
+        "to answer positively; to agree; to accept; to promise"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0357",
+      "hanzi": "公园",
+      "pinyin": "gong1 yuan2",
+      "meaning": [
+        "park (for public recreation)"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0358",
+      "hanzi": "红色",
+      "pinyin": "hong2 se4",
+      "meaning": [
+        "red (color)",
+        "revolutionary"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0359",
+      "hanzi": "热情",
+      "pinyin": "re4 qing2",
+      "meaning": [
+        "cordial",
+        "enthusiastic",
+        "passion",
+        "passionate",
+        "passionately"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0360",
+      "hanzi": "到处",
+      "pinyin": "dao4 chu4",
+      "meaning": [
+        "everywhere"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0361",
+      "hanzi": "放下",
+      "pinyin": "fang4 xia4",
+      "meaning": [
+        "to lay down",
+        "to put down",
+        "to let go of",
+        "to relinquish",
+        "to set aside",
+        "to lower (the blinds etc)"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0362",
+      "hanzi": "观点",
+      "pinyin": "guan1 dian3",
+      "meaning": [
+        "point of view",
+        "viewpoint",
+        "standpoint"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0363",
+      "hanzi": "公平",
+      "pinyin": "gong1 ping2",
+      "meaning": [
+        "fair",
+        "impartial"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0364",
+      "hanzi": "高级",
+      "pinyin": "gao1 ji2",
+      "meaning": [
+        "high level",
+        "high grade",
+        "advanced",
+        "high-ranking"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0365",
+      "hanzi": "早就",
+      "pinyin": "zao3 jiu4",
+      "meaning": [
+        "already at an earlier time"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0366",
+      "hanzi": "的话",
+      "pinyin": "de5 hua4",
+      "meaning": [
+        "if (coming after a conditional clause)"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0367",
+      "hanzi": "报纸",
+      "pinyin": "bao4 zhi3",
+      "meaning": [
+        "newspaper",
+        "newsprint"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0368",
+      "hanzi": "响",
+      "pinyin": "xiang3",
+      "meaning": [
+        "echo",
+        "sound",
+        "noise",
+        "to make a sound",
+        "to sound",
+        "to ring",
+        "loud",
+        "classifier for noises"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0369",
+      "hanzi": "收入",
+      "pinyin": "shou1 ru4",
+      "meaning": [
+        "to take in",
+        "income",
+        "revenue"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0370",
+      "hanzi": "河",
+      "pinyin": "he2",
+      "meaning": [
+        "river"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0371",
+      "hanzi": "练",
+      "pinyin": "lian4",
+      "meaning": [
+        "to practice",
+        "to train",
+        "to drill",
+        "to perfect (one's skill)",
+        "exercise",
+        "(literary) white silk",
+        "to boil and scour raw silk"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0372",
+      "hanzi": "举",
+      "pinyin": "ju3",
+      "meaning": [
+        "variant of 举",
+        "to lift",
+        "to hold up",
+        "to cite",
+        "to enumerate",
+        "to act",
+        "to raise",
+        "to choose",
+        "to elect",
+        "act",
+        "move",
+        "deed"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0373",
+      "hanzi": "多久",
+      "pinyin": "duo1 jiu3",
+      "meaning": [
+        "(of time) how long?",
+        "(not) a long time"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0374",
+      "hanzi": "租",
+      "pinyin": "zu1",
+      "meaning": [
+        "to hire",
+        "to rent",
+        "to charter",
+        "to rent out",
+        "to lease out",
+        "rent",
+        "land tax"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0375",
+      "hanzi": "同事",
+      "pinyin": "tong2 shi4",
+      "meaning": [
+        "colleague; co-worker"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0376",
+      "hanzi": "球队",
+      "pinyin": "qiu2 dui4",
+      "meaning": [
+        "sports team (basketball, soccer, football etc)"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0377",
+      "hanzi": "舒服",
+      "pinyin": "shu1 fu5",
+      "meaning": [
+        "comfortable",
+        "feeling well"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0378",
+      "hanzi": "上周",
+      "pinyin": "shang4 zhou1",
+      "meaning": [
+        "last week"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0379",
+      "hanzi": "单位",
+      "pinyin": "dan1 wei4",
+      "meaning": [
+        "unit (of measure)",
+        "unit (group of people as a whole)",
+        "work unit (place of employment, esp. in the PRC prior to economic reform)"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0380",
+      "hanzi": "体育",
+      "pinyin": "ti3 yu4",
+      "meaning": [
+        "sports",
+        "physical education"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0381",
+      "hanzi": "黑色",
+      "pinyin": "hei1 se4",
+      "meaning": [
+        "black"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0382",
+      "hanzi": "道路",
+      "pinyin": "dao4 lu4",
+      "meaning": [
+        "road",
+        "path",
+        "way"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0383",
+      "hanzi": "大人",
+      "pinyin": "da4 ren5",
+      "meaning": [
+        "adult",
+        "grownup",
+        "title of respect toward superiors"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0384",
+      "hanzi": "绿色",
+      "pinyin": "lv4 se4",
+      "meaning": [
+        "green"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0385",
+      "hanzi": "旅行",
+      "pinyin": "lv3 xing2",
+      "meaning": [
+        "to travel",
+        "journey; trip"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0386",
+      "hanzi": "公路",
+      "pinyin": "gong1 lu4",
+      "meaning": [
+        "highway",
+        "road"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0387",
+      "hanzi": "主人",
+      "pinyin": "zhu3 ren2",
+      "meaning": [
+        "master",
+        "host",
+        "owner"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0388",
+      "hanzi": "信心",
+      "pinyin": "xin4 xin1",
+      "meaning": [
+        "confidence",
+        "faith (in sb or sth)"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0389",
+      "hanzi": "故意",
+      "pinyin": "gu4 yi4",
+      "meaning": [
+        "deliberately; on purpose"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0390",
+      "hanzi": "闻",
+      "pinyin": "wen2",
+      "meaning": [
+        "surname Wen",
+        "to hear",
+        "news",
+        "well-known",
+        "famous",
+        "reputation",
+        "fame",
+        "to smell",
+        "to sniff at"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0391",
+      "hanzi": "看法",
+      "pinyin": "kan4 fa3",
+      "meaning": [
+        "way of looking at a thing",
+        "view",
+        "opinion"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0392",
+      "hanzi": "放心",
+      "pinyin": "fang4 xin1",
+      "meaning": [
+        "to feel relieved",
+        "to feel reassured",
+        "to be at ease"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0393",
+      "hanzi": "湖",
+      "pinyin": "hu2",
+      "meaning": [
+        "lake"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0394",
+      "hanzi": "正好",
+      "pinyin": "zheng4 hao3",
+      "meaning": [
+        "just (in time)",
+        "just right",
+        "just enough",
+        "to happen to",
+        "to chance to",
+        "by chance",
+        "it just so happens that"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0395",
+      "hanzi": "院",
+      "pinyin": "yuan4",
+      "meaning": [
+        "courtyard",
+        "institution"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0396",
+      "hanzi": "安静",
+      "pinyin": "an1 jing4",
+      "meaning": [
+        "quiet",
+        "peaceful",
+        "calm"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0397",
+      "hanzi": "道理",
+      "pinyin": "dao4 li5",
+      "meaning": [
+        "reason",
+        "argument",
+        "sense",
+        "principle",
+        "basis",
+        "justification"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0398",
+      "hanzi": "公里",
+      "pinyin": "gong1 li3",
+      "meaning": [
+        "kilometer"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0399",
+      "hanzi": "旅游",
+      "pinyin": "lv3 you2",
+      "meaning": [
+        "trip",
+        "journey",
+        "tourism",
+        "travel",
+        "tour",
+        "to travel"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0400",
+      "hanzi": "作业",
+      "pinyin": "zuo4 ye4",
+      "meaning": [
+        "school assignment",
+        "homework",
+        "work",
+        "task",
+        "operation",
+        "to operate"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0401",
+      "hanzi": "家长",
+      "pinyin": "jia1 zhang3",
+      "meaning": [
+        "head of a household",
+        "family head",
+        "patriarch",
+        "parent or guardian of a child"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0402",
+      "hanzi": "绿",
+      "pinyin": "lv4",
+      "meaning": [
+        "green",
+        "(slang) (derived from 绿帽子) to cheat on (one's spouse or boyfriend or girlfriend)"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0403",
+      "hanzi": "重复",
+      "pinyin": "chong2 fu4",
+      "meaning": [
+        "to repeat",
+        "to duplicate",
+        "variant of 重复"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0404",
+      "hanzi": "小说",
+      "pinyin": "xiao3 shuo1",
+      "meaning": [
+        "novel",
+        "fiction"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0405",
+      "hanzi": "教师",
+      "pinyin": "jiao4 shi1",
+      "meaning": [
+        "teacher"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0406",
+      "hanzi": "白色",
+      "pinyin": "bai2 se4",
+      "meaning": [
+        "white",
+        "fig. reactionary",
+        "anti-communist"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0407",
+      "hanzi": "理想",
+      "pinyin": "li3 xiang3",
+      "meaning": [
+        "an ideal",
+        "a dream",
+        "ideal",
+        "perfect"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0408",
+      "hanzi": "感动",
+      "pinyin": "gan3 dong4",
+      "meaning": [
+        "to move (sb)",
+        "to touch (sb emotionally)",
+        "moving"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0409",
+      "hanzi": "出租车",
+      "pinyin": "chu1 zu1 che1",
+      "meaning": [
+        "taxi",
+        "(Tw) rental car"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0410",
+      "hanzi": "提到",
+      "pinyin": "ti2 dao4",
+      "meaning": [
+        "to mention",
+        "to raise (a subject)",
+        "to refer to"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0411",
+      "hanzi": "不如",
+      "pinyin": "bu4 ru2",
+      "meaning": [
+        "not equal to",
+        "not as good as",
+        "inferior to",
+        "it would be better to"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0412",
+      "hanzi": "题",
+      "pinyin": "ti2",
+      "meaning": [
+        "surname Ti",
+        "topic",
+        "problem for discussion",
+        "exam question",
+        "subject",
+        "to inscribe",
+        "to mention"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0413",
+      "hanzi": "顾客",
+      "pinyin": "gu4 ke4",
+      "meaning": [
+        "customer; client"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0414",
+      "hanzi": "难过",
+      "pinyin": "nan2 guo4",
+      "meaning": [
+        "to feel sad",
+        "to feel unwell",
+        "(of life) to be difficult"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0415",
+      "hanzi": "组成",
+      "pinyin": "zu3 cheng2",
+      "meaning": [
+        "to form",
+        "to make up",
+        "to constitute"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0416",
+      "hanzi": "流行",
+      "pinyin": "liu2 xing2",
+      "meaning": [
+        "(of a contagious disease etc) to spread",
+        "to propagate",
+        "(of a style of clothing, song etc) popular",
+        "fashionable"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0417",
+      "hanzi": "送给",
+      "pinyin": "song4 gei3",
+      "meaning": [
+        "to send",
+        "to give as a present"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0418",
+      "hanzi": "不久",
+      "pinyin": "bu4 jiu3",
+      "meaning": [
+        "not long (after)",
+        "before too long",
+        "soon",
+        "soon after"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0419",
+      "hanzi": "客人",
+      "pinyin": "ke4 ren2",
+      "meaning": [
+        "visitor",
+        "guest",
+        "customer",
+        "client"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0420",
+      "hanzi": "人口",
+      "pinyin": "ren2 kou3",
+      "meaning": [
+        "population",
+        "people"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0421",
+      "hanzi": "平时",
+      "pinyin": "ping2 shi2",
+      "meaning": [
+        "ordinarily",
+        "in normal times",
+        "in peacetime"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0422",
+      "hanzi": "比如说",
+      "pinyin": "bi3 ru2 shuo1",
+      "meaning": [
+        "for example"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0423",
+      "hanzi": "不好意思",
+      "pinyin": "bu4 hao3 yi4 si5",
+      "meaning": [
+        "to feel embarrassed",
+        "to find it embarrassing",
+        "to be sorry (for inconveniencing sb)"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0424",
+      "hanzi": "碰",
+      "pinyin": "peng4",
+      "meaning": [
+        "variant of 碰",
+        "to touch",
+        "to meet with",
+        "to bump",
+        "old variant of 碰"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0425",
+      "hanzi": "请求",
+      "pinyin": "qing3 qiu2",
+      "meaning": [
+        "to request; to ask",
+        "request"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0426",
+      "hanzi": "准确",
+      "pinyin": "zhun3 que4",
+      "meaning": [
+        "accurate; exact; precise"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0427",
+      "hanzi": "碗",
+      "pinyin": "wan3",
+      "meaning": [
+        "variant of 碗",
+        "bowl",
+        "cup"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0428",
+      "hanzi": "碰到",
+      "pinyin": "peng4 dao4",
+      "meaning": [
+        "to come across",
+        "to run into",
+        "to meet",
+        "to hit"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0429",
+      "hanzi": "蓝色",
+      "pinyin": "lan2 se4",
+      "meaning": [
+        "blue (color)"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0430",
+      "hanzi": "懂得",
+      "pinyin": "dong3 de5",
+      "meaning": [
+        "to understand; to know; to comprehend"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0431",
+      "hanzi": "广场",
+      "pinyin": "guang3 chang3",
+      "meaning": [
+        "public square; plaza"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0432",
+      "hanzi": "好久",
+      "pinyin": "hao3 jiu3",
+      "meaning": [
+        "quite a while"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0433",
+      "hanzi": "夏天",
+      "pinyin": "xia4 tian1",
+      "meaning": [
+        "summer"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0434",
+      "hanzi": "接下来",
+      "pinyin": "jie1 xia4 lai2",
+      "meaning": [
+        "to accept",
+        "to take",
+        "next",
+        "following"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0435",
+      "hanzi": "早餐",
+      "pinyin": "zao3 can1",
+      "meaning": [
+        "breakfast"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0436",
+      "hanzi": "图片",
+      "pinyin": "tu2 pian4",
+      "meaning": [
+        "picture; photograph"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0437",
+      "hanzi": "车辆",
+      "pinyin": "che1 liang4",
+      "meaning": [
+        "vehicle"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0438",
+      "hanzi": "有意思",
+      "pinyin": "you3 yi4 si5",
+      "meaning": [
+        "interesting",
+        "meaningful",
+        "enjoyable",
+        "fun"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0439",
+      "hanzi": "早晨",
+      "pinyin": "zao3 chen2",
+      "meaning": [
+        "early morning",
+        "also pr. [zǎo chen]"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0440",
+      "hanzi": "出门",
+      "pinyin": "chu1 men2",
+      "meaning": [
+        "to go out",
+        "to leave home",
+        "to go on a journey",
+        "away from home",
+        "(of a woman) to get married"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0441",
+      "hanzi": "以外",
+      "pinyin": "yi3 wai4",
+      "meaning": [
+        "apart from",
+        "other than",
+        "except for",
+        "external",
+        "outside of",
+        "on the other side of",
+        "beyond"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0442",
+      "hanzi": "做法",
+      "pinyin": "zuo4 fa3",
+      "meaning": [
+        "way of handling sth",
+        "method for making",
+        "work method",
+        "recipe",
+        "practice"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0443",
+      "hanzi": "作家",
+      "pinyin": "zuo4 jia1",
+      "meaning": [
+        "author"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0444",
+      "hanzi": "全体",
+      "pinyin": "quan2 ti3",
+      "meaning": [
+        "all",
+        "entire"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0445",
+      "hanzi": "地铁",
+      "pinyin": "di4 tie3",
+      "meaning": [
+        "underground railway; subway",
+        "subway train"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0446",
+      "hanzi": "熟",
+      "pinyin": "shu2",
+      "meaning": [
+        "ripe; mature",
+        "thoroughly cooked; done",
+        "familiar; acquainted",
+        "experienced; skilled",
+        "(of sleep etc) deep; profound",
+        "also pr. [shóu]"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0447",
+      "hanzi": "小时候",
+      "pinyin": "xiao3 shi2 hou5",
+      "meaning": [
+        "in one's childhood"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0448",
+      "hanzi": "全身",
+      "pinyin": "quan2 shen1",
+      "meaning": [
+        "the whole body",
+        "(typography) em"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0449",
+      "hanzi": "练习",
+      "pinyin": "lian4 xi2",
+      "meaning": [
+        "to practice",
+        "exercise",
+        "drill",
+        "practice"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0450",
+      "hanzi": "平安",
+      "pinyin": "ping2 an1",
+      "meaning": [
+        "safe and sound",
+        "well",
+        "without mishap",
+        "quiet and safe",
+        "at peace"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0451",
+      "hanzi": "人数",
+      "pinyin": "ren2 shu4",
+      "meaning": [
+        "number of people"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0452",
+      "hanzi": "队长",
+      "pinyin": "dui4 zhang3",
+      "meaning": [
+        "captain",
+        "team leader"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0453",
+      "hanzi": "南方",
+      "pinyin": "nan2 fang1",
+      "meaning": [
+        "south",
+        "the southern part of the country",
+        "the South"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0454",
+      "hanzi": "友好",
+      "pinyin": "you3 hao3",
+      "meaning": [
+        "Youhao district of Yichun city 市, Heilongjiang",
+        "friendly; amicable",
+        "close friend"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0455",
+      "hanzi": "亿",
+      "pinyin": "yi4",
+      "meaning": [
+        "100 million"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0456",
+      "hanzi": "对话",
+      "pinyin": "dui4 hua4",
+      "meaning": [
+        "to talk (with sb)",
+        "dialogue; conversation"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0457",
+      "hanzi": "停车",
+      "pinyin": "ting2 che1",
+      "meaning": [
+        "to pull up (stop one's vehicle)",
+        "to park",
+        "(of a machine) to stop working",
+        "to stall"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0458",
+      "hanzi": "冬天",
+      "pinyin": "dong1 tian1",
+      "meaning": [
+        "winter"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0459",
+      "hanzi": "云",
+      "pinyin": "yun2",
+      "meaning": [
+        "(classical) to say",
+        "surname Yun",
+        "abbr. for Yunnan Province 云南省",
+        "cloud"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0460",
+      "hanzi": "青年",
+      "pinyin": "qing1 nian2",
+      "meaning": [
+        "youth",
+        "youthful years",
+        "young person",
+        "the young"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0461",
+      "hanzi": "好人",
+      "pinyin": "hao3 ren2",
+      "meaning": [
+        "good person",
+        "healthy person",
+        "person who tries not to offend anyone, even at the expense of principle"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0462",
+      "hanzi": "大声",
+      "pinyin": "da4 sheng1",
+      "meaning": [
+        "loud voice",
+        "in a loud voice",
+        "loudly"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0463",
+      "hanzi": "分开",
+      "pinyin": "fen1 kai1",
+      "meaning": [
+        "to separate",
+        "to part"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0464",
+      "hanzi": "校长",
+      "pinyin": "xiao4 zhang3",
+      "meaning": [
+        "(college, university) president",
+        "headmaster"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0465",
+      "hanzi": "市长",
+      "pinyin": "shi4 zhang3",
+      "meaning": [
+        "mayor"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0466",
+      "hanzi": "自行车",
+      "pinyin": "zi4 xing2 che1",
+      "meaning": [
+        "bicycle; bike"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0467",
+      "hanzi": "相机",
+      "pinyin": "xiang4 ji1",
+      "meaning": [
+        "camera (abbr. for 照相机)",
+        "at the opportune moment",
+        "as the circumstances allow"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0468",
+      "hanzi": "花园",
+      "pinyin": "hua1 yuan2",
+      "meaning": [
+        "garden"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0469",
+      "hanzi": "影片",
+      "pinyin": "ying3 pian4",
+      "meaning": [
+        "a copy of a film",
+        "film; motion picture; movie"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0470",
+      "hanzi": "温度",
+      "pinyin": "wen1 du4",
+      "meaning": [
+        "temperature"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0471",
+      "hanzi": "等于",
+      "pinyin": "deng3 yu2",
+      "meaning": [
+        "to equal",
+        "to be tantamount to"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0472",
+      "hanzi": "周年",
+      "pinyin": "zhou1 nian2",
+      "meaning": [
+        "anniversary",
+        "annual"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0473",
+      "hanzi": "节日",
+      "pinyin": "jie2 ri4",
+      "meaning": [
+        "holiday",
+        "festival"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0474",
+      "hanzi": "例如",
+      "pinyin": "li4 ru2",
+      "meaning": [
+        "for example; for instance; such as"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0475",
+      "hanzi": "重视",
+      "pinyin": "zhong4 shi4",
+      "meaning": [
+        "to attach importance to sth; to value"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0476",
+      "hanzi": "洗澡",
+      "pinyin": "xi3 zao3",
+      "meaning": [
+        "to bathe",
+        "to take a shower"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0477",
+      "hanzi": "今后",
+      "pinyin": "jin1 hou4",
+      "meaning": [
+        "hereafter",
+        "henceforth",
+        "in the future",
+        "from now on"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0478",
+      "hanzi": "这时",
+      "pinyin": "zhe4 shi2",
+      "meaning": [
+        "at this time",
+        "at this moment"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0479",
+      "hanzi": "大大",
+      "pinyin": "da4 da4",
+      "meaning": [
+        "greatly",
+        "enormously",
+        "(dialect) dad",
+        "uncle"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0480",
+      "hanzi": "科学家",
+      "pinyin": "ke1 xue2 jia1",
+      "meaning": [
+        "scientist"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0481",
+      "hanzi": "姓",
+      "pinyin": "xing4",
+      "meaning": [
+        "family name",
+        "surname",
+        "to be surnamed"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0482",
+      "hanzi": "篮球",
+      "pinyin": "lan2 qiu2",
+      "meaning": [
+        "basketball"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0483",
+      "hanzi": "晚餐",
+      "pinyin": "wan3 can1",
+      "meaning": [
+        "evening meal",
+        "dinner"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0484",
+      "hanzi": "大门",
+      "pinyin": "da4 men2",
+      "meaning": [
+        "the Doors, US rock band",
+        "entrance",
+        "door",
+        "gate",
+        "large and influential family"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0485",
+      "hanzi": "晚会",
+      "pinyin": "wan3 hui4",
+      "meaning": [
+        "evening party"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0486",
+      "hanzi": "大小",
+      "pinyin": "da4 xiao3",
+      "meaning": [
+        "dimension",
+        "magnitude",
+        "size",
+        "measurement",
+        "large and small",
+        "at any rate",
+        "adults and children",
+        "consideration of seniority"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0487",
+      "hanzi": "不一定",
+      "pinyin": "bu4 yi1 ding4",
+      "meaning": [
+        "not necessarily",
+        "maybe"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0488",
+      "hanzi": "少年",
+      "pinyin": "shao4 nian2",
+      "meaning": [
+        "early youth",
+        "youngster",
+        "(literary) youth",
+        "young man"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0489",
+      "hanzi": "计算机",
+      "pinyin": "ji4 suan4 ji1",
+      "meaning": [
+        "computer",
+        "(Tw) calculator"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0490",
+      "hanzi": "难受",
+      "pinyin": "nan2 shou4",
+      "meaning": [
+        "to feel unwell",
+        "to suffer pain",
+        "to be difficult to bear"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0491",
+      "hanzi": "刻",
+      "pinyin": "ke4",
+      "meaning": [
+        "quarter (hour)",
+        "moment",
+        "to carve",
+        "to engrave",
+        "to cut",
+        "oppressive",
+        "classifier for short time intervals"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0492",
+      "hanzi": "参观",
+      "pinyin": "can1 guan1",
+      "meaning": [
+        "to look around",
+        "to tour",
+        "to visit"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0493",
+      "hanzi": "太太",
+      "pinyin": "tai4 tai5",
+      "meaning": [
+        "married woman",
+        "Mrs.",
+        "Madam",
+        "wife"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0494",
+      "hanzi": "笔记本",
+      "pinyin": "bi3 ji4 ben3",
+      "meaning": [
+        "notebook (stationery)",
+        "notebook (computing)"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0495",
+      "hanzi": "对面",
+      "pinyin": "dui4 mian4",
+      "meaning": [
+        "(sitting) opposite",
+        "across (the street)",
+        "directly in front",
+        "to be face to face"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0496",
+      "hanzi": "信用卡",
+      "pinyin": "xin4 yong4 ka3",
+      "meaning": [
+        "credit card"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0497",
+      "hanzi": "青少年",
+      "pinyin": "qing1 shao4 nian2",
+      "meaning": [
+        "adolescent",
+        "youth",
+        "teenager"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0498",
+      "hanzi": "特点",
+      "pinyin": "te4 dian3",
+      "meaning": [
+        "characteristic (feature)",
+        "trait",
+        "feature"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0499",
+      "hanzi": "阴",
+      "pinyin": "yin1",
+      "meaning": [
+        "surname Yin",
+        "overcast (weather)",
+        "cloudy",
+        "shady",
+        "Yin (the negative principle of Yin and Yang)",
+        "negative (electric.)",
+        "feminine",
+        "moon",
+        "implicit",
+        "hidden",
+        "genitalia",
+        "variant of 阴"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0500",
+      "hanzi": "笑话",
+      "pinyin": "xiao4 hua5",
+      "meaning": [
+        "joke; jest",
+        "to laugh at; to mock"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0501",
+      "hanzi": "平常",
+      "pinyin": "ping2 chang2",
+      "meaning": [
+        "ordinary",
+        "common",
+        "usually",
+        "ordinarily"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0502",
+      "hanzi": "不但",
+      "pinyin": "bu4 dan4",
+      "meaning": [
+        "not only (... but also ...)"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0503",
+      "hanzi": "半夜",
+      "pinyin": "ban4 ye4",
+      "meaning": [
+        "midnight",
+        "in the middle of the night"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0504",
+      "hanzi": "商量",
+      "pinyin": "shang1 liang5",
+      "meaning": [
+        "to consult",
+        "to talk over",
+        "to discuss"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0505",
+      "hanzi": "黄色",
+      "pinyin": "huang2 se4",
+      "meaning": [
+        "yellow (color)",
+        "pornographic"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0506",
+      "hanzi": "姓名",
+      "pinyin": "xing4 ming2",
+      "meaning": [
+        "surname and given name",
+        "full name"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0507",
+      "hanzi": "午餐",
+      "pinyin": "wu3 can1",
+      "meaning": [
+        "lunch",
+        "luncheon"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0508",
+      "hanzi": "排队",
+      "pinyin": "pai2 dui4",
+      "meaning": [
+        "to line up"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0509",
+      "hanzi": "校园",
+      "pinyin": "xiao4 yuan2",
+      "meaning": [
+        "campus"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0510",
+      "hanzi": "等到",
+      "pinyin": "deng3 dao4",
+      "meaning": [
+        "to wait until",
+        "by the time when (sth is ready etc)"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0511",
+      "hanzi": "一部分",
+      "pinyin": "yi1 bu4 fen5",
+      "meaning": [
+        "portion",
+        "part of",
+        "subset"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0512",
+      "hanzi": "爱人",
+      "pinyin": "ai4 ren5",
+      "meaning": [
+        "spouse (PRC)",
+        "lover (non-PRC)"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0513",
+      "hanzi": "多数",
+      "pinyin": "duo1 shu4",
+      "meaning": [
+        "majority; most"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0514",
+      "hanzi": "西方",
+      "pinyin": "xi1 fang1",
+      "meaning": [
+        "the West",
+        "the Occident",
+        "Western countries"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0515",
+      "hanzi": "春天",
+      "pinyin": "chun1 tian1",
+      "meaning": [
+        "spring (season)"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0516",
+      "hanzi": "超市",
+      "pinyin": "chao1 shi4",
+      "meaning": [
+        "supermarket (abbr. for 超级市场)"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0517",
+      "hanzi": "球场",
+      "pinyin": "qiu2 chang3",
+      "meaning": [
+        "stadium",
+        "sports ground",
+        "court",
+        "pitch",
+        "field",
+        "golf course"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0518",
+      "hanzi": "住院",
+      "pinyin": "zhu4 yuan4",
+      "meaning": [
+        "to be in hospital",
+        "to be hospitalized"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0519",
+      "hanzi": "椅子",
+      "pinyin": "yi3 zi5",
+      "meaning": [
+        "chair"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0520",
+      "hanzi": "座位",
+      "pinyin": "zuo4 wei4",
+      "meaning": [
+        "seat"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0521",
+      "hanzi": "忽然",
+      "pinyin": "hu1 ran2",
+      "meaning": [
+        "suddenly; all of a sudden"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0522",
+      "hanzi": "假期",
+      "pinyin": "jia4 qi1",
+      "meaning": [
+        "vacation"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0523",
+      "hanzi": "游客",
+      "pinyin": "you2 ke4",
+      "meaning": [
+        "traveler",
+        "tourist",
+        "(online gaming) guest player"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0524",
+      "hanzi": "报名",
+      "pinyin": "bao4 ming2",
+      "meaning": [
+        "to sign up",
+        "to enter one's name",
+        "to apply",
+        "to register",
+        "to enroll",
+        "to enlist"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0525",
+      "hanzi": "拿到",
+      "pinyin": "na2 dao4",
+      "meaning": [
+        "to get",
+        "to obtain"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0526",
+      "hanzi": "全家",
+      "pinyin": "quan2 jia1",
+      "meaning": [
+        "whole family"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0527",
+      "hanzi": "从小",
+      "pinyin": "cong2 xiao3",
+      "meaning": [
+        "from childhood",
+        "from a young age"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0528",
+      "hanzi": "饱",
+      "pinyin": "bao3",
+      "meaning": [
+        "to eat till full",
+        "satisfied"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0529",
+      "hanzi": "一共",
+      "pinyin": "yi1 gong4",
+      "meaning": [
+        "altogether"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0530",
+      "hanzi": "月亮",
+      "pinyin": "yue4 liang5",
+      "meaning": [
+        "the moon"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0531",
+      "hanzi": "公斤",
+      "pinyin": "gong1 jin1",
+      "meaning": [
+        "kilogram (kg)"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0532",
+      "hanzi": "北方",
+      "pinyin": "bei3 fang1",
+      "meaning": [
+        "north",
+        "the northern part a country",
+        "China north of the Yellow River"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0533",
+      "hanzi": "平等",
+      "pinyin": "ping2 deng3",
+      "meaning": [
+        "equal",
+        "equality"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0534",
+      "hanzi": "打工",
+      "pinyin": "da3 gong1",
+      "meaning": [
+        "to work a temporary or casual job",
+        "(of students) to have a job outside of class time, or during vacation"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0535",
+      "hanzi": "星星",
+      "pinyin": "xing1 xing5",
+      "meaning": [
+        "(coll.) a star; the stars in the sky"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0536",
+      "hanzi": "多云",
+      "pinyin": "duo1 yun2",
+      "meaning": [
+        "cloudy (meteorology)"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0537",
+      "hanzi": "不满",
+      "pinyin": "bu4 man3",
+      "meaning": [
+        "resentful",
+        "discontented",
+        "dissatisfied"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0538",
+      "hanzi": "例子",
+      "pinyin": "li4 zi5",
+      "meaning": [
+        "case",
+        "(for) instance",
+        "example"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0539",
+      "hanzi": "教室",
+      "pinyin": "jiao4 shi4",
+      "meaning": [
+        "classroom"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0540",
+      "hanzi": "快要",
+      "pinyin": "kuai4 yao4",
+      "meaning": [
+        "nearly at the point of (doing sth); about to (do sth)"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0541",
+      "hanzi": "东方",
+      "pinyin": "dong1 fang1",
+      "meaning": [
+        "the East",
+        "the Orient",
+        "two-character surname Dongfang",
+        "east"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0542",
+      "hanzi": "常见",
+      "pinyin": "chang2 jian4",
+      "meaning": [
+        "commonly seen",
+        "common",
+        "to see sth frequently"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0543",
+      "hanzi": "商人",
+      "pinyin": "shang1 ren2",
+      "meaning": [
+        "merchant",
+        "businessman"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0544",
+      "hanzi": "少数",
+      "pinyin": "shao3 shu4",
+      "meaning": [
+        "small number",
+        "few",
+        "minority"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0545",
+      "hanzi": "走过",
+      "pinyin": "zou3 guo4",
+      "meaning": [
+        "to walk past",
+        "to pass by"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0546",
+      "hanzi": "得出",
+      "pinyin": "de2 chu1",
+      "meaning": [
+        "to obtain (a result); to arrive at (a conclusion)"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0547",
+      "hanzi": "起飞",
+      "pinyin": "qi3 fei1",
+      "meaning": [
+        "(of an aircraft) to take off"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0548",
+      "hanzi": "网球",
+      "pinyin": "wang3 qiu2",
+      "meaning": [
+        "tennis",
+        "tennis ball"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0549",
+      "hanzi": "停车场",
+      "pinyin": "ting2 che1 chang3",
+      "meaning": [
+        "parking lot",
+        "car park"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0550",
+      "hanzi": "大海",
+      "pinyin": "da4 hai3",
+      "meaning": [
+        "sea",
+        "ocean"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0551",
+      "hanzi": "做饭",
+      "pinyin": "zuo4 fan4",
+      "meaning": [
+        "to prepare a meal",
+        "to cook"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0552",
+      "hanzi": "出租",
+      "pinyin": "chu1 zu1",
+      "meaning": [
+        "to rent"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0553",
+      "hanzi": "老是",
+      "pinyin": "lao3 shi5",
+      "meaning": [
+        "always"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0554",
+      "hanzi": "月份",
+      "pinyin": "yue4 fen4",
+      "meaning": [
+        "month"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0555",
+      "hanzi": "坏人",
+      "pinyin": "huai4 ren2",
+      "meaning": [
+        "bad person",
+        "villain"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0556",
+      "hanzi": "天上",
+      "pinyin": "tian1 shang4",
+      "meaning": [
+        "celestial",
+        "heavenly"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0557",
+      "hanzi": "旅客",
+      "pinyin": "lv3 ke4",
+      "meaning": [
+        "traveler; tourist"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0558",
+      "hanzi": "大衣",
+      "pinyin": "da4 yi1",
+      "meaning": [
+        "overcoat",
+        "topcoat",
+        "cloak"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0559",
+      "hanzi": "学期",
+      "pinyin": "xue2 qi1",
+      "meaning": [
+        "term",
+        "semester"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0560",
+      "hanzi": "路边",
+      "pinyin": "lu4 bian1",
+      "meaning": [
+        "curb; roadside; wayside"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0561",
+      "hanzi": "难题",
+      "pinyin": "nan2 ti2",
+      "meaning": [
+        "difficult problem"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0562",
+      "hanzi": "入口",
+      "pinyin": "ru4 kou3",
+      "meaning": [
+        "entrance",
+        "to import"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0563",
+      "hanzi": "实习",
+      "pinyin": "shi2 xi2",
+      "meaning": [
+        "to practice",
+        "field work",
+        "to intern",
+        "internship"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0564",
+      "hanzi": "点头",
+      "pinyin": "dian3 tou2",
+      "meaning": [
+        "to nod"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0565",
+      "hanzi": "手表",
+      "pinyin": "shou3 biao3",
+      "meaning": [
+        "wristwatch"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0566",
+      "hanzi": "院长",
+      "pinyin": "yuan4 zhang3",
+      "meaning": [
+        "the head of an institution whose name ends in 院",
+        "chair of a board",
+        "president of a university",
+        "department head",
+        "dean",
+        "premier of the Republic of China"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0567",
+      "hanzi": "东北",
+      "pinyin": "dong1 bei3",
+      "meaning": [
+        "Northeast China",
+        "Manchuria",
+        "northeast"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0568",
+      "hanzi": "夜里",
+      "pinyin": "ye4 li5",
+      "meaning": [
+        "during the night",
+        "at night",
+        "nighttime"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0569",
+      "hanzi": "音乐会",
+      "pinyin": "yin1 yue4 hui4",
+      "meaning": [
+        "concert"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0570",
+      "hanzi": "中年",
+      "pinyin": "zhong1 nian2",
+      "meaning": [
+        "middle age"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0571",
+      "hanzi": "院子",
+      "pinyin": "yuan4 zi5",
+      "meaning": [
+        "courtyard",
+        "garden",
+        "yard",
+        "patio",
+        "(old) servant"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0572",
+      "hanzi": "找出",
+      "pinyin": "zhao3 chu1",
+      "meaning": [
+        "to find",
+        "to search out"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0573",
+      "hanzi": "名称",
+      "pinyin": "ming2 cheng1",
+      "meaning": [
+        "name (of a thing)",
+        "name (of an organization)"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0574",
+      "hanzi": "分数",
+      "pinyin": "fen1 shu4",
+      "meaning": [
+        "(exam) grade",
+        "mark",
+        "score",
+        "fraction"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0575",
+      "hanzi": "瓶子",
+      "pinyin": "ping2 zi5",
+      "meaning": [
+        "bottle"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0576",
+      "hanzi": "举手",
+      "pinyin": "ju3 shou3",
+      "meaning": [
+        "to raise a hand",
+        "to put up one's hand (as signal)"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0577",
+      "hanzi": "复习",
+      "pinyin": "fu4 xi2",
+      "meaning": [
+        "to review",
+        "revision",
+        "variant of 复习"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0578",
+      "hanzi": "课堂",
+      "pinyin": "ke4 tang2",
+      "meaning": [
+        "classroom"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0579",
+      "hanzi": "出国",
+      "pinyin": "chu1 guo2",
+      "meaning": [
+        "to go abroad; to leave the country"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0580",
+      "hanzi": "秋天",
+      "pinyin": "qiu1 tian1",
+      "meaning": [
+        "autumn"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0581",
+      "hanzi": "护照",
+      "pinyin": "hu4 zhao4",
+      "meaning": [
+        "passport"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0582",
+      "hanzi": "下雪",
+      "pinyin": "xia4 xue3",
+      "meaning": [
+        "to snow"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0583",
+      "hanzi": "英文",
+      "pinyin": "ying1 wen2",
+      "meaning": [
+        "English (language)"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0584",
+      "hanzi": "气温",
+      "pinyin": "qi4 wen1",
+      "meaning": [
+        "air temperature"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0585",
+      "hanzi": "画家",
+      "pinyin": "hua4 jia1",
+      "meaning": [
+        "painter"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0586",
+      "hanzi": "骑车",
+      "pinyin": "qi2 che1",
+      "meaning": [
+        "to ride a bike (motorbike or bicycle)"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0587",
+      "hanzi": "西南",
+      "pinyin": "xi1 nan2",
+      "meaning": [
+        "southwest"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0588",
+      "hanzi": "西北",
+      "pinyin": "xi1 bei3",
+      "meaning": [
+        "Northwest China (Shaanxi, Gansu, Qinghai, Ningxia, Xinjiang)",
+        "northwest"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0589",
+      "hanzi": "海边",
+      "pinyin": "hai3 bian1",
+      "meaning": [
+        "coast",
+        "seaside",
+        "seashore",
+        "beach"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0590",
+      "hanzi": "住房",
+      "pinyin": "zhu4 fang2",
+      "meaning": [
+        "housing"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0591",
+      "hanzi": "出院",
+      "pinyin": "chu1 yuan4",
+      "meaning": [
+        "to leave hospital",
+        "to be discharged from hospital"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0592",
+      "hanzi": "体育馆",
+      "pinyin": "ti3 yu4 guan3",
+      "meaning": [
+        "gym",
+        "gymnasium",
+        "stadium"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0593",
+      "hanzi": "老朋友",
+      "pinyin": "lao3 peng2 you5",
+      "meaning": [
+        "old friend",
+        "(slang) period",
+        "menstruation"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0594",
+      "hanzi": "菜单",
+      "pinyin": "cai4 dan1",
+      "meaning": [
+        "menu"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0595",
+      "hanzi": "年级",
+      "pinyin": "nian2 ji2",
+      "meaning": [
+        "grade",
+        "year (in school, college etc)"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0596",
+      "hanzi": "走开",
+      "pinyin": "zou3 kai1",
+      "meaning": [
+        "to leave",
+        "to walk away",
+        "to beat it",
+        "to move aside"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0597",
+      "hanzi": "笔记",
+      "pinyin": "bi3 ji4",
+      "meaning": [
+        "to take down (in writing)",
+        "notes",
+        "a type of literature consisting mainly of short sketches"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0598",
+      "hanzi": "外地",
+      "pinyin": "wai4 di4",
+      "meaning": [
+        "parts of the country other than where one is"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0599",
+      "hanzi": "休假",
+      "pinyin": "xiu1 jia4",
+      "meaning": [
+        "to go on vacation; to have a holiday; to take leave"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0600",
+      "hanzi": "小声",
+      "pinyin": "xiao3 sheng1",
+      "meaning": [
+        "in a low voice",
+        "(speak) in whispers"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0601",
+      "hanzi": "大自然",
+      "pinyin": "da4 zi4 ran2",
+      "meaning": [
+        "nature (the natural world)"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0602",
+      "hanzi": "送到",
+      "pinyin": "song4 dao4",
+      "meaning": [
+        "Deliver"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0603",
+      "hanzi": "打印",
+      "pinyin": "da3 yin4",
+      "meaning": [
+        "to affix a seal",
+        "to stamp",
+        "to print out (with a printer)"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0604",
+      "hanzi": "斤",
+      "pinyin": "jin1",
+      "meaning": [
+        "catty",
+        "(PRC) weight equal to 500 g",
+        "(Tw) weight equal to 600 g",
+        "(HK, Malaysia, Singapore) slightly over 604 g"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0605",
+      "hanzi": "老年",
+      "pinyin": "lao3 nian2",
+      "meaning": [
+        "elderly",
+        "old age",
+        "autumn of one's years"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0606",
+      "hanzi": "照相",
+      "pinyin": "zhao4 xiang4",
+      "meaning": [
+        "to take a photograph"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0607",
+      "hanzi": "动物园",
+      "pinyin": "dong4 wu4 yuan2",
+      "meaning": [
+        "zoo"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0608",
+      "hanzi": "草地",
+      "pinyin": "cao3 di4",
+      "meaning": [
+        "lawn",
+        "meadow",
+        "sod",
+        "turf"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0609",
+      "hanzi": "药店",
+      "pinyin": "yao4 dian4",
+      "meaning": [
+        "pharmacy"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0610",
+      "hanzi": "回国",
+      "pinyin": "hui2 guo2",
+      "meaning": [
+        "to return to one's home country"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0611",
+      "hanzi": "关机",
+      "pinyin": "guan1 ji1",
+      "meaning": [
+        "to turn off (a machine or device)",
+        "to finish shooting a film"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0612",
+      "hanzi": "晴",
+      "pinyin": "qing2",
+      "meaning": [
+        "clear",
+        "fine (weather)"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0613",
+      "hanzi": "班长",
+      "pinyin": "ban1 zhang3",
+      "meaning": [
+        "class monitor",
+        "squad leader",
+        "team leader"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0614",
+      "hanzi": "常用",
+      "pinyin": "chang2 yong4",
+      "meaning": [
+        "in common usage"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0615",
+      "hanzi": "里头",
+      "pinyin": "li3 tou5",
+      "meaning": [
+        "inside",
+        "interior"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0616",
+      "hanzi": "请客",
+      "pinyin": "qing3 ke4",
+      "meaning": [
+        "to give a dinner party",
+        "to entertain guests",
+        "to invite to dinner"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0617",
+      "hanzi": "日报",
+      "pinyin": "ri4 bao4",
+      "meaning": [
+        "daily newspaper"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0618",
+      "hanzi": "行人",
+      "pinyin": "xing2 ren2",
+      "meaning": [
+        "pedestrian",
+        "traveler on foot",
+        "passer-by",
+        "official responsible for arranging audiences with the emperor"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0619",
+      "hanzi": "开学",
+      "pinyin": "kai1 xue2",
+      "meaning": [
+        "foundation of a University or College",
+        "school opening",
+        "the start of a new term"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0620",
+      "hanzi": "走进",
+      "pinyin": "zou3 jin4",
+      "meaning": [
+        "to enter"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0621",
+      "hanzi": "洗衣机",
+      "pinyin": "xi3 yi1 ji1",
+      "meaning": [
+        "washing machine; washer"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0622",
+      "hanzi": "词语",
+      "pinyin": "ci2 yu3",
+      "meaning": [
+        "word (general term including monosyllables through to short phrases)",
+        "term (e.g. technical term)",
+        "expression"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0623",
+      "hanzi": "句子",
+      "pinyin": "ju4 zi5",
+      "meaning": [
+        "sentence"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0624",
+      "hanzi": "筷子",
+      "pinyin": "kuai4 zi5",
+      "meaning": [
+        "chopsticks"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0625",
+      "hanzi": "体育场",
+      "pinyin": "ti3 yu4 chang3",
+      "meaning": [
+        "stadium"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0626",
+      "hanzi": "组长",
+      "pinyin": "zu3 zhang3",
+      "meaning": [
+        "group leader"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0627",
+      "hanzi": "作文",
+      "pinyin": "zuo4 wen2",
+      "meaning": [
+        "to write an essay",
+        "composition (student essay)"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0628",
+      "hanzi": "东南",
+      "pinyin": "dong1 nan2",
+      "meaning": [
+        "southeast"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0629",
+      "hanzi": "个子",
+      "pinyin": "ge4 zi5",
+      "meaning": [
+        "height",
+        "stature",
+        "build",
+        "size"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0630",
+      "hanzi": "难看",
+      "pinyin": "nan2 kan4",
+      "meaning": [
+        "ugly",
+        "unsightly"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0631",
+      "hanzi": "有点儿",
+      "pinyin": "you3 dian3 r5",
+      "meaning": [
+        "slightly",
+        "a little",
+        "somewhat"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0632",
+      "hanzi": "地铁站",
+      "pinyin": "di4 tie3 zhan4",
+      "meaning": [
+        "subway station"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0633",
+      "hanzi": "快餐",
+      "pinyin": "kuai4 can1",
+      "meaning": [
+        "fast food",
+        "snack",
+        "quick meal"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0634",
+      "hanzi": "站住",
+      "pinyin": "zhan4 zhu4",
+      "meaning": [
+        "to stand"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0635",
+      "hanzi": "饺子",
+      "pinyin": "jiao3 zi5",
+      "meaning": [
+        "dumpling",
+        "pot-sticker"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0636",
+      "hanzi": "开机",
+      "pinyin": "kai1 ji1",
+      "meaning": [
+        "to start an engine",
+        "to boot up (a computer)",
+        "to press Ctrl-Alt-Delete",
+        "to begin shooting a film or TV show"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0637",
+      "hanzi": "公共汽车",
+      "pinyin": "gong1 gong4 qi4 che1",
+      "meaning": [
+        "bus"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0638",
+      "hanzi": "碰见",
+      "pinyin": "peng4 jian4",
+      "meaning": [
+        "to run into",
+        "to meet (unexpectedly)",
+        "to bump into"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0639",
+      "hanzi": "字典",
+      "pinyin": "zi4 dian3",
+      "meaning": [
+        "Chinese character dictionary (containing entries for single characters, contrasted with a 词典, which has entries for words of one or more characters)",
+        "(coll.) dictionary"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0640",
+      "hanzi": "排球",
+      "pinyin": "pai2 qiu2",
+      "meaning": [
+        "volleyball"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0641",
+      "hanzi": "干杯",
+      "pinyin": "gan1 bei1",
+      "meaning": [
+        "to drink a toast",
+        "Cheers! (proposing a toast)",
+        "Here's to you!",
+        "Bottoms up!",
+        "lit. dry cup"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0642",
+      "hanzi": "过年",
+      "pinyin": "guo4 nian2",
+      "meaning": [
+        "to celebrate the Chinese New Year"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0643",
+      "hanzi": "零下",
+      "pinyin": "ling2 xia4",
+      "meaning": [
+        "below zero"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0644",
+      "hanzi": "拿出",
+      "pinyin": "na2 chu1",
+      "meaning": [
+        "to take out",
+        "to put out",
+        "to provide",
+        "to put forward (a proposal)",
+        "to come up with (evidence)"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0645",
+      "hanzi": "中餐",
+      "pinyin": "zhong1 can1",
+      "meaning": [
+        "lunch",
+        "Chinese meal",
+        "Chinese food"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0646",
+      "hanzi": "晴天",
+      "pinyin": "qing2 tian1",
+      "meaning": [
+        "clear sky",
+        "sunny day"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0647",
+      "hanzi": "普通话",
+      "pinyin": "pu3 tong1 hua4",
+      "meaning": [
+        "Mandarin (common language)",
+        "Putonghua (common speech of the Chinese language)",
+        "ordinary speech"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0648",
+      "hanzi": "全年",
+      "pinyin": "quan2 nian2",
+      "meaning": [
+        "the whole year",
+        "all year long"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0649",
+      "hanzi": "爬山",
+      "pinyin": "pa2 shan1",
+      "meaning": [
+        "to climb a mountain",
+        "to mountaineer",
+        "hiking",
+        "mountaineering"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0650",
+      "hanzi": "那会儿",
+      "pinyin": "na4 hui4 r5",
+      "meaning": [
+        "at that time (in the past or the future)",
+        "also pr. [nèi huì r]"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0651",
+      "hanzi": "黑板",
+      "pinyin": "hei1 ban3",
+      "meaning": [
+        "blackboard"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0652",
+      "hanzi": "外卖",
+      "pinyin": "wai4 mai4",
+      "meaning": [
+        "(of a restaurant) to provide a takeout or home delivery meal",
+        "takeout (business)",
+        "takeout (meal)"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0653",
+      "hanzi": "方便面",
+      "pinyin": "fang1 bian4 mian4",
+      "meaning": [
+        "instant noodles"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0654",
+      "hanzi": "饭馆",
+      "pinyin": "fan4 guan3",
+      "meaning": [
+        "restaurant"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0655",
+      "hanzi": "球鞋",
+      "pinyin": "qiu2 xie2",
+      "meaning": [
+        "athletic shoes"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0656",
+      "hanzi": "流利",
+      "pinyin": "liu2 li4",
+      "meaning": [
+        "fluent"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0657",
+      "hanzi": "交朋友",
+      "pinyin": "jiao1 peng2 you5",
+      "meaning": [
+        "to make friends",
+        "(dialect) to start an affair with sb"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0658",
+      "hanzi": "一路顺风",
+      "pinyin": "yi1 lu4 shun4 feng1",
+      "meaning": [
+        "to have a pleasant journey (idiom)"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0659",
+      "hanzi": "晚报",
+      "pinyin": "wan3 bao4",
+      "meaning": [
+        "evening newspaper",
+        "(in a newspaper's name) Evening News"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0660",
+      "hanzi": "难听",
+      "pinyin": "nan2 ting1",
+      "meaning": [
+        "unpleasant to hear",
+        "coarse",
+        "vulgar",
+        "offensive",
+        "shameful"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0661",
+      "hanzi": "药水",
+      "pinyin": "yao4 shui3",
+      "meaning": [
+        "Yaksu in North Korea, near the border with Liaoning and Jiling province",
+        "medicine in liquid form",
+        "bottled medicine",
+        "lotion"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0662",
+      "hanzi": "中医",
+      "pinyin": "zhong1 yi1",
+      "meaning": [
+        "traditional Chinese medical science",
+        "a doctor trained in Chinese medicine"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0663",
+      "hanzi": "坏处",
+      "pinyin": "huai4 chu5",
+      "meaning": [
+        "harm",
+        "troubles"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0664",
+      "hanzi": "前年",
+      "pinyin": "qian2 nian2",
+      "meaning": [
+        "the year before last"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0665",
+      "hanzi": "词典",
+      "pinyin": "ci2 dian3",
+      "meaning": [
+        "dictionary",
+        "also written 辞典"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0666",
+      "hanzi": "千克",
+      "pinyin": "qian1 ke4",
+      "meaning": [
+        "kilogram"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0667",
+      "hanzi": "问路",
+      "pinyin": "wen4 lu4",
+      "meaning": [
+        "to ask for directions",
+        "to ask the way (to some place)"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0668",
+      "hanzi": "叫作",
+      "pinyin": "jiao4 zuo4",
+      "meaning": [
+        "to call",
+        "to be called"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0669",
+      "hanzi": "凉快",
+      "pinyin": "liang2 kuai5",
+      "meaning": [
+        "nice and cold",
+        "pleasantly cool"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0670",
+      "hanzi": "午睡",
+      "pinyin": "wu3 shui4",
+      "meaning": [
+        "to take a nap",
+        "siesta"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0671",
+      "hanzi": "药片",
+      "pinyin": "yao4 pian4",
+      "meaning": [
+        "a (medicine) pill or tablet"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0672",
+      "hanzi": "音节",
+      "pinyin": "yin1 jie2",
+      "meaning": [
+        "syllable"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0673",
+      "hanzi": "中级",
+      "pinyin": "zhong1 ji2",
+      "meaning": [
+        "middle level (in a hierarchy)"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0674",
+      "hanzi": "一点点",
+      "pinyin": "yi1 dian3 dian3",
+      "meaning": [
+        "a little bit"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0675",
+      "hanzi": "春节",
+      "pinyin": "chun1 jie2",
+      "meaning": [
+        "Spring Festival (Chinese New Year)"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0676",
+      "hanzi": "留学生",
+      "pinyin": "liu2 xue2 sheng1",
+      "meaning": [
+        "student studying abroad",
+        "(foreign) exchange student"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0677",
+      "hanzi": "阴天",
+      "pinyin": "yin1 tian1",
+      "meaning": [
+        "cloudy day; overcast sky"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0678",
+      "hanzi": "西医",
+      "pinyin": "xi1 yi1",
+      "meaning": [
+        "Western medicine",
+        "a doctor trained in Western medicine"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0679",
+      "hanzi": "听讲",
+      "pinyin": "ting1 jiang3",
+      "meaning": [
+        "to attend a lecture",
+        "to listen to a talk"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0680",
+      "hanzi": "考生",
+      "pinyin": "kao3 sheng1",
+      "meaning": [
+        "exam candidate",
+        "student whose name has been put forward for an exam"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0681",
+      "hanzi": "读音",
+      "pinyin": "du2 yin1",
+      "meaning": [
+        "pronunciation",
+        "literary (rather than colloquial) pronunciation of a Chinese character"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0682",
+      "hanzi": "中小学",
+      "pinyin": "zhong1 xiao3 xue2",
+      "meaning": [
+        "middle and elementary school"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0683",
+      "hanzi": "西餐",
+      "pinyin": "xi1 can1",
+      "meaning": [
+        "Western-style food"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0684",
+      "hanzi": "一路平安",
+      "pinyin": "yi1 lu4 ping2 an1",
+      "meaning": [
+        "to have a pleasant journey",
+        "Bon voyage!"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0685",
+      "hanzi": "干活儿",
+      "pinyin": "gan4 huo2 r5",
+      "meaning": [
+        "erhua variant of 干活",
+        "(coll.) to work",
+        "(coll.) to be employed"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0686",
+      "hanzi": "不太",
+      "pinyin": "bu4 tai4",
+      "meaning": [
+        "Not too"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0687",
+      "hanzi": "生词",
+      "pinyin": "sheng1 ci2",
+      "meaning": [
+        "new word (in textbook)",
+        "word that is unfamiliar or not yet studied"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0688",
+      "hanzi": "画儿",
+      "pinyin": "hua4 r5",
+      "meaning": [
+        "picture",
+        "drawing",
+        "painting"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0689",
+      "hanzi": "短信",
+      "pinyin": "duan3 xin4",
+      "meaning": [
+        "text message",
+        "SMS"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0690",
+      "hanzi": "公交车",
+      "pinyin": "gong1 jiao1 che1",
+      "meaning": [
+        "public transport vehicle",
+        "town bus"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0691",
+      "hanzi": "快点儿",
+      "pinyin": "kuai4 dian3 r5",
+      "meaning": [
+        "erhua variant of 快点",
+        "to do smh more quickly",
+        "Hurry up!"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0692",
+      "hanzi": "那时候",
+      "pinyin": "na4 shi2 hou5",
+      "meaning": [
+        "at that time"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0693",
+      "hanzi": "挺好",
+      "pinyin": "ting3 hao3",
+      "meaning": [
+        "very good"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0694",
+      "hanzi": "下周",
+      "pinyin": "xia4 zhou1",
+      "meaning": [
+        "next week"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0695",
+      "hanzi": "银行卡",
+      "pinyin": "yin2 hang2 ka3",
+      "meaning": [
+        "bank card",
+        "ATM card"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    },
+    {
+      "id": "hsk2-0696",
+      "hanzi": "有一点儿",
+      "pinyin": "you3 yi1 dian3 r5",
+      "meaning": [
+        "a bit",
+        "a little"
+      ],
+      "category": "vocabulary",
+      "tags": [
+        "hsk2"
+      ]
+    }
+  ]
+}
