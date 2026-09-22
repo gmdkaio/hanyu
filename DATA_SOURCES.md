@@ -1,7 +1,7 @@
 
 # Data sources
 
-Hànyǔ's code is open source. The vocabulary data it ships is not Hànyǔ's own work, and carries
+Hànyǔ's code is MIT Licensed. The vocabulary data it ships is not Hànyǔ's own work, and carries
 its own license terms, listed here.
 
 ## HSK vocabulary (`data/decks/hsk/*.json`)
