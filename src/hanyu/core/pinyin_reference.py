@@ -119,3 +119,70 @@ INITIAL_GROUPS: tuple[InitialGroup, ...] = (
         ),
     ),
 )
+
+
+@dataclass(frozen=True)
+class FinalExample:
+    letter: str
+    example_hanzi: str
+    example_pinyin: str  # numbered, e.g. "nv3"
+    example_meaning: str
+
+
+@dataclass(frozen=True)
+class FinalGroup:
+    title: str
+    note: str
+    examples: tuple[FinalExample, ...]
+
+
+FINAL_GROUPS: tuple[FinalGroup, ...] = (
+    FinalGroup(
+        title="ü - the rounded-lip vowel",
+        note=(
+            "Say 'ee', then round your lips like you're about to whistle, without moving your "
+            "tongue. After j, q, x or y it's written as plain u, but still said as ü - qu is "
+            "said 'qü', not 'koo'."
+        ),
+        examples=(
+            FinalExample("ü", "女", "nv3", "woman"),
+            FinalExample("u (after q)", "去", "qu4", "to go"),
+            FinalExample("u (after y)", "雨", "yu3", "rain"),
+        ),
+    ),
+    FinalGroup(
+        title="The buzzed i",
+        note=(
+            "After zh, ch, sh, r, z, c or s, the letter i isn't the vowel 'ee' at all - it's a "
+            "short buzz made with the same tongue position as the consonant before it."
+        ),
+        examples=(
+            FinalExample("shi", "十", "shi2", "ten"),
+            FinalExample("zi", "子", "zi3", "child, particle"),
+            FinalExample("ci", "词", "ci2", "word"),
+            FinalExample("ri", "日", "ri4", "day, sun"),
+        ),
+    ),
+    FinalGroup(
+        title="-ian sounds like 'yen'",
+        note="The reflex is to say 'ee-an', but -ian is said closer to the English 'yen'.",
+        examples=(
+            FinalExample("tian", "天", "tian1", "sky, day"),
+            FinalExample("jian", "见", "jian4", "to see"),
+            FinalExample("dian", "点", "dian3", "dot, o'clock"),
+        ),
+    ),
+    FinalGroup(
+        title="Hidden vowels: ui, iu, un",
+        note=(
+            "These three are shortened spellings that hide a vowel in the middle: ui is really "
+            "uei, iu is really iou, and un is really uen. Say the full three-letter version and "
+            "the pronunciation falls out naturally."
+        ),
+        examples=(
+            FinalExample("dui (= duei)", "对", "dui4", "correct"),
+            FinalExample("liu (= liou)", "六", "liu4", "six"),
+            FinalExample("chun (= chuen)", "春", "chun1", "spring"),
+        ),
+    ),
+)

@@ -7,7 +7,7 @@ from discord import app_commands
 from discord.ext import commands
 
 from hanyu.core.pinyin import clamp_page, to_display
-from hanyu.core.pinyin_reference import INITIAL_GROUPS, SANDHI_RULES, TONES
+from hanyu.core.pinyin_reference import FINAL_GROUPS, INITIAL_GROUPS, SANDHI_RULES, TONES
 
 
 def _tones_table_embed() -> discord.Embed:
@@ -62,9 +62,27 @@ def _initials_embeds() -> list[discord.Embed]:
     return embeds
 
 
+def _finals_embeds() -> list[discord.Embed]:
+    embeds = []
+    for group in FINAL_GROUPS:
+        embed = discord.Embed(
+            title=group.title, description=group.note, colour=discord.Colour.red()
+        )
+        for ex in group.examples:
+            example = to_display(ex.example_pinyin)
+            embed.add_field(
+                name=ex.letter,
+                value=f"**{ex.example_hanzi}** ({example}) - {ex.example_meaning}",
+                inline=True,
+            )
+        embeds.append(embed)
+    return embeds
+
+
 TOPIC_BUILDERS = {
     "tones": lambda: [_tones_table_embed(), _sandhi_embed()],
     "initials": _initials_embeds,
+    "finals": _finals_embeds,
 }
 
 
