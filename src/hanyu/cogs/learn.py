@@ -15,8 +15,9 @@ def _tones_table_embed() -> discord.Embed:
         title="The four tones (+ neutral)",
         description=(
             "Mandarin syllables carry a pitch contour called a tone. "
-            "Two words can be spelled with the exact same letters and mean something completely different depending on the tone, "
-            "so getting it right matters just as much as getting the sounds right."
+            "Two words can be spelled with the exact same letters and "
+            "mean something completely different depending on the tone, so "
+            "getting it right matters just as much as getting the sounds right."
         ),
         colour=discord.Colour.red(),
     )
@@ -35,7 +36,8 @@ def _sandhi_embed() -> discord.Embed:
     embed = discord.Embed(
         title="Tone changes (tone sandhi)",
         description=(
-            "A few tones shift in actual speech depending on what follows, even though you still write the base tone on the page."
+            "A few tones shift in actual speech depending on what follows, "
+            "even though you still write the base tone on the page."
         ),
         colour=discord.Colour.red(),
     )
