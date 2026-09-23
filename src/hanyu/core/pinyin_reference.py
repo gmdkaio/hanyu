@@ -47,3 +47,75 @@ SANDHI_RULES: tuple[tuple[str, str], ...] = (
         "Alone, or at the end of a number, it stays yī (第一 -> dìyī).",
     ),
 )
+
+
+@dataclass(frozen=True)
+class InitialExample:
+    letter: str
+    example_hanzi: str
+    example_pinyin: str  # numbered, e.g. "ba4"
+    example_meaning: str
+
+
+@dataclass(frozen=True)
+class InitialGroup:
+    title: str
+    note: str
+    examples: tuple[InitialExample, ...]
+
+
+INITIAL_GROUPS: tuple[InitialGroup, ...] = (
+    InitialGroup(
+        title="Aspiration pairs: b/p, d/t, g/k",
+        note=(
+            "Each pair is made in the same place in the mouth. The first letter comes out with "
+            "no puff of air, the second comes out with a strong puff, like the difference "
+            "between the English 'spy' and 'pie'."
+        ),
+        examples=(
+            InitialExample("b", "爸", "ba4", "dad"),
+            InitialExample("p", "怕", "pa4", "afraid"),
+            InitialExample("d", "大", "da4", "big"),
+            InitialExample("t", "他", "ta1", "he"),
+            InitialExample("g", "高", "gao1", "tall"),
+            InitialExample("k", "看", "kan4", "look"),
+        ),
+    ),
+    InitialGroup(
+        title="j / q / x",
+        note=(
+            "Made with the tongue flat and pushed toward the front teeth. Roughly: j is like "
+            "the 'j' in 'jeep', q is close to 'ch', and x is close to 'sh'."
+        ),
+        examples=(
+            InitialExample("j", "家", "jia1", "home"),
+            InitialExample("q", "七", "qi1", "seven"),
+            InitialExample("x", "谢", "xie4", "thank"),
+        ),
+    ),
+    InitialGroup(
+        title="zh / ch / sh / r (retroflex)",
+        note=(
+            "Made with the tongue curled back toward the roof of the mouth. These are the "
+            "same four sounds as z/c/s/(no r) below, just said with the tongue further back."
+        ),
+        examples=(
+            InitialExample("zh", "中", "zhong1", "middle, China"),
+            InitialExample("ch", "吃", "chi1", "eat"),
+            InitialExample("sh", "是", "shi4", "to be"),
+            InitialExample("r", "人", "ren2", "person"),
+        ),
+    ),
+    InitialGroup(
+        title="z / c / s",
+        note=(
+            "Made with the tongue flat behind the front teeth. z sounds close to the 'ds' in "
+            "'kids', c sounds close to the 'ts' in 'cats'."
+        ),
+        examples=(
+            InitialExample("z", "在", "zai4", "at"),
+            InitialExample("c", "菜", "cai4", "dish, vegetable"),
+            InitialExample("s", "三", "san1", "three"),
+        ),
+    ),
+)
