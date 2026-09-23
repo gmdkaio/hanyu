@@ -15,3 +15,10 @@ from pypinyin.contrib.tone_convert import to_tone
 def to_display(numbered: str) -> str:
     """Convert numbered pinyin to tone-marked pinyin: ``"ni3 hao3"`` -> ``"nǐ hǎo"``."""
     return " ".join(to_tone(syllable) for syllable in numbered.split())
+
+
+def clamp_page(index: int, total: int) -> int:
+    """Clamp a page index to ``[0, total - 1]``, keeping Prev/Next buttons in bounds."""
+    if total <= 0:
+        raise ValueError("total must be positive")
+    return max(0, min(index, total - 1))

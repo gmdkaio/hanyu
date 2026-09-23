@@ -12,7 +12,7 @@ from hanyu.core.decks import DeckLibrary
 
 log = logging.getLogger("hanyu")
 
-EXTENSIONS = ("hanyu.cogs.general",)
+EXTENSIONS = ("hanyu.cogs.general", "hanyu.cogs.learn")
 
 
 class HanyuBot(commands.Bot):
